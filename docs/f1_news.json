@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-20T21:25:30.411199+00:00",
+  "last_updated": "2026-03-20T23:01:04.870523+00:00",
   "total_articles": 105,
   "sources": [
     "Formula1.com",
@@ -12,6 +12,18 @@
     "Crash.net F1"
   ],
   "articles": [
+    {
+      "source": "Motorsport.com",
+      "title": "Jonathan Wheatley's Audi exit sparks strong reaction from Formula 1 fans",
+      "url": "https://www.motorsport.com/f1/news/jonathan-wheatleys-audi-exit-sparks-strong-reaction-from-formula-1-fans/10806877/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "published_at": "2026-03-20T22:19:01+00:00",
+      "summary": "Formula 1 fans have shared their verdict on Jonathan Wheatley's shock exit from his role as Audi team principal.Audi confirmed on 20 March that Wheatley would leave his role with immediate effect due to \"personal reasons\" after joining the team in 2025.\"As it continues its journey towards the front of the grid, Audi Revolut F1 Team will implement significant changes to its senior ...Keep reading",
+      "author": "",
+      "tags": [
+        "F1 Chinese Grand Prix",
+        "Formula 1"
+      ]
+    },
     {
       "source": "The Race",
       "title": "Q1 field set in Brazil MotoGP practice as Zarco, Razgatlioglu star",
@@ -579,18 +591,6 @@
       "author": "",
       "tags": [
         "Shanghai International Circuit",
-        "Formula 1"
-      ]
-    },
-    {
-      "source": "Motorsport.com",
-      "title": "Adrian Newey to step down as Aston Martin F1 team principal",
-      "url": "https://www.motorsport.com/f1/news/adrian-newey-to-step-down-as-aston-martin-f1-team-principal/10806482/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "published_at": "2026-03-19T15:22:16+00:00",
-      "summary": "Adrian Newey is set to step down from his team principal position at the Aston Martin Formula 1 team, where he’ll be replaced by current Audi team boss Jonathan Wheatley.Motorsport understands Newey will step down in order to focus exclusively on technical matters, as Aston Martin has experienced a more than underwhelming start to the 2026 F1 season. Power unit trouble with new partner Honda ...Keep reading",
-      "author": "",
-      "tags": [
-        "F1 Chinese Grand Prix",
         "Formula 1"
       ]
     },
