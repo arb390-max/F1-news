@@ -37,23 +37,21 @@ jobs:
         run: pip install -r requirements.txt
 
       # -----------------------------------------------------------------------
-      # 4. Ensure docs/ exists and always has a .gitkeep so Git tracks it
-      #    even if the scraper fails — prevents the Pages "no such dir" error
+      # 4. Ensure docs/ exists with .gitkeep so Git always tracks the folder
       # -----------------------------------------------------------------------
-      - name: Ensure docs folder and .gitkeep exist
+      - name: Prepare docs folder
         run: |
           mkdir -p docs
           touch docs/.gitkeep
 
       # -----------------------------------------------------------------------
-      # 5. Run scraper — writes to docs/index.md and docs/latest_news.json
+      # 5. Run scraper — writes docs/index.md and docs/latest_news.json
       # -----------------------------------------------------------------------
       - name: Run F1 RSS scraper
         run: python f1_scraper.py
 
       # -----------------------------------------------------------------------
-      # 6. Commit & push results
-      #    Stages .gitkeep + scraped output; only commits if anything changed
+      # 6. Commit & push — only if something changed
       # -----------------------------------------------------------------------
       - name: Commit scraped output
         run: |
