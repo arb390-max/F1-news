@@ -1,63 +1,52 @@
-name: F1 News Scraper
+name: Scrape F1 News
 
 on:
   schedule:
-    # Runs every 6 hours — adjust cron as needed
-    - cron: "0 */6 * * *"
-  workflow_dispatch: # allow manual trigger from GitHub UI
+    # Runs every hour at :00
+    - cron: "0 * * * *"
+  workflow_dispatch: # allow manual trigger from the Actions tab
 
 permissions:
-  contents: write  # needed to commit scraped output back to repo
+  contents: write # needed to push docs/f1_news.json to main
 
 jobs:
   scrape:
+    name: Fetch & publish F1 RSS data
     runs-on: ubuntu-latest
-    timeout-minutes: 15
 
     steps:
-      # -----------------------------------------------------------------------
-      # 1. Checkout repository
-      # -----------------------------------------------------------------------
-      - name: Checkout repo
+      # ── 1. Checkout main branch ──────────────────────────────────────────────
+      - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          ref: main
 
-      # -----------------------------------------------------------------------
-      # 2. Set up Python
-      # -----------------------------------------------------------------------
+      # ── 2. Set up Python ─────────────────────────────────────────────────────
       - name: Set up Python 3.12
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
           cache: pip
 
-      # -----------------------------------------------------------------------
-      # 3. Install dependencies
-      # -----------------------------------------------------------------------
+      # ── 3. Install dependencies ───────────────────────────────────────────────
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      # -----------------------------------------------------------------------
-      # 4. Ensure docs/ exists with .gitkeep so Git always tracks the folder
-      # -----------------------------------------------------------------------
-      - name: Prepare docs folder
-        run: |
-          mkdir -p docs
-          touch docs/.gitkeep
-
-      # -----------------------------------------------------------------------
-      # 5. Run scraper — writes docs/index.md and docs/latest_news.json
-      # -----------------------------------------------------------------------
+      # ── 4. Run scraper ────────────────────────────────────────────────────────
       - name: Run F1 RSS scraper
-        run: python f1_scraper.py
+        run: python scrape_f1_news.py
 
-      # -----------------------------------------------------------------------
-      # 6. Commit & push — only if something changed
-      # -----------------------------------------------------------------------
-      - name: Commit scraped output
+      # ── 5. Commit & push docs/f1_news.json if changed ────────────────────────
+      - name: Commit updated JSON
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/.gitkeep docs/index.md docs/latest_news.json
-          git diff --cached --quiet || \
-            git commit -m "chore: update F1 news [$(date -u '+%Y-%m-%d %H:%M UTC')]"
-          git push
+          git add docs/f1_news.json
+          # Only commit when there are actual changes
+          git diff --cached --quiet || git commit -m "chore: update F1 news feed [$(date -u '+%Y-%m-%d %H:%M UTC')]"
+
+      - name: Push to main
+        uses: ad-m/github-push-action@v0.8.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
