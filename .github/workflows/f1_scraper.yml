@@ -37,10 +37,13 @@ jobs:
         run: pip install -r requirements.txt
 
       # -----------------------------------------------------------------------
-      # 4. Ensure docs/ exists (GitHub Pages source folder)
+      # 4. Ensure docs/ exists and always has a .gitkeep so Git tracks it
+      #    even if the scraper fails — prevents the Pages "no such dir" error
       # -----------------------------------------------------------------------
-      - name: Ensure docs folder exists
-        run: mkdir -p docs
+      - name: Ensure docs folder and .gitkeep exist
+        run: |
+          mkdir -p docs
+          touch docs/.gitkeep
 
       # -----------------------------------------------------------------------
       # 5. Run scraper — writes to docs/index.md and docs/latest_news.json
@@ -50,13 +53,13 @@ jobs:
 
       # -----------------------------------------------------------------------
       # 6. Commit & push results
-      #    Only commits if there are actual changes (idempotent)
+      #    Stages .gitkeep + scraped output; only commits if anything changed
       # -----------------------------------------------------------------------
       - name: Commit scraped output
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/index.md docs/latest_news.json
+          git add docs/.gitkeep docs/index.md docs/latest_news.json
           git diff --cached --quiet || \
             git commit -m "chore: update F1 news [$(date -u '+%Y-%m-%d %H:%M UTC')]"
           git push
