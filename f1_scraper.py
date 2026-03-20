@@ -1,197 +1,94 @@
-"""
-f1_scraper.py
-Scrapes F1 news from multiple RSS feeds and saves results to docs/ for GitHub Pages.
-No API keys required — pure RSS/HTML parsing.
-"""
-
+import feedparser
 import json
-import re
+import os
 from datetime import datetime, timezone
 from pathlib import Path
 
-import feedparser
-import requests
-from bs4 import BeautifulSoup
-from dateutil import parser as dateparser
-
-# ---------------------------------------------------------------------------
-# RSS Feed Sources
-# ---------------------------------------------------------------------------
+# ── F1 RSS feeds (no API key required) ────────────────────────────────────────
 RSS_FEEDS = {
-    "Autosport":        "https://www.autosport.com/rss/f1/news/",
-    "Motorsport.com":   "https://www.motorsport.com/rss/f1/news/",
-    "F1.com":           "https://www.formula1.com/content/fom-website/en/latest/all.xml",
-    "RaceFans":         "https://www.racefans.net/feed/",
-    "GPFans":           "https://www.gpfans.com/en/rss/",
-    "PlanetF1":         "https://planetf1.com/feed/",
-    "The Race":         "https://the-race.com/feed/",
+    "Formula1.com": "https://www.formula1.com/content/fom-website/en/latest/all.xml",
+    "Autosport": "https://www.autosport.com/rss/f1/news/",
+    "Motorsport.com": "https://www.motorsport.com/rss/f1/news/",
+    "RaceFans": "https://www.racefans.net/feed/",
+    "The Race": "https://the-race.com/feed/",
+    "PlanetF1": "https://www.planetf1.com/feed/",
+    "GPFans": "https://www.gpfans.com/en/rss/",
+    "Crash.net F1": "https://www.crash.net/rss/f1",
 }
 
-# Output goes to docs/ so GitHub Pages can serve it directly
-OUTPUT_DIR = Path("docs")
-JSON_FILE  = OUTPUT_DIR / "latest_news.json"
-MD_FILE    = OUTPUT_DIR / "index.md"        # index.md becomes the Pages homepage
-
-HEADERS = {
-    "User-Agent": (
-        "Mozilla/5.0 (compatible; F1NewsScraper/1.0; +https://github.com)"
-    )
-}
-
-MAX_ITEMS_PER_FEED = 10  # cap per source to keep output manageable
-
-
-# ---------------------------------------------------------------------------
-# Helpers
-# ---------------------------------------------------------------------------
-
-def clean_html(raw: str) -> str:
-    """Strip HTML tags and collapse whitespace."""
-    if not raw:
-        return ""
-    soup = BeautifulSoup(raw, "lxml")
-    text = soup.get_text(separator=" ")
-    return re.sub(r"\s+", " ", text).strip()
+MAX_ARTICLES_PER_SOURCE = 20
 
 
 def parse_date(entry) -> str:
-    """Return an ISO-8601 UTC string from a feedparser entry, or empty string."""
-    for attr in ("published", "updated", "created"):
-        raw = getattr(entry, attr, None)
-        if raw:
+    """Return an ISO-8601 UTC date string from a feed entry, or empty string."""
+    for attr in ("published_parsed", "updated_parsed"):
+        t = getattr(entry, attr, None)
+        if t:
             try:
-                dt = dateparser.parse(raw)
-                if dt:
-                    dt = dt.astimezone(timezone.utc)
-                    return dt.isoformat()
+                return datetime(*t[:6], tzinfo=timezone.utc).isoformat()
             except Exception:
                 pass
     return ""
 
 
-def fetch_feed(name: str, url: str) -> list[dict]:
-    """Fetch and parse a single RSS feed, returning a list of article dicts."""
+def scrape_feed(source_name: str, url: str) -> list[dict]:
+    """Fetch and parse a single RSS feed. Returns a list of article dicts."""
     articles = []
     try:
-        resp = requests.get(url, headers=HEADERS, timeout=15)
-        resp.raise_for_status()
-        feed = feedparser.parse(resp.content)
-
-        for entry in feed.entries[:MAX_ITEMS_PER_FEED]:
-            title   = clean_html(getattr(entry, "title", ""))
-            link    = getattr(entry, "link", "")
-            summary = clean_html(
-                getattr(entry, "summary", "")
-                or getattr(entry, "description", "")
-            )
-            pub_date = parse_date(entry)
-
-            if not title or not link:
-                continue
+        feed = feedparser.parse(url)
+        for entry in feed.entries[:MAX_ARTICLES_PER_SOURCE]:
+            # Summary: strip HTML tags roughly via feedparser's sanitised value
+            summary = ""
+            if hasattr(entry, "summary"):
+                import re
+                summary = re.sub(r"<[^>]+>", "", entry.summary).strip()
 
             articles.append(
                 {
-                    "source":    name,
-                    "title":     title,
-                    "url":       link,
-                    "summary":   summary[:500] + ("…" if len(summary) > 500 else ""),
-                    "published": pub_date,
+                    "source": source_name,
+                    "title": getattr(entry, "title", "").strip(),
+                    "url": getattr(entry, "link", "").strip(),
+                    "published_at": parse_date(entry),
+                    "summary": summary[:500],  # cap length
+                    "author": getattr(entry, "author", "").strip(),
+                    "tags": [
+                        t.get("term", "") for t in getattr(entry, "tags", [])
+                    ],
                 }
             )
-
-        print(f"  ✓  {name}: {len(articles)} articles")
-
-    except requests.RequestException as exc:
-        print(f"  ✗  {name}: HTTP error — {exc}")
     except Exception as exc:
-        print(f"  ✗  {name}: Unexpected error — {exc}")
+        print(f"  [WARN] Failed to fetch '{source_name}': {exc}")
 
     return articles
 
 
-def deduplicate(articles: list[dict]) -> list[dict]:
-    """Remove duplicates by URL, keeping first occurrence."""
-    seen = set()
-    unique = []
-    for a in articles:
-        if a["url"] not in seen:
-            seen.add(a["url"])
-            unique.append(a)
-    return unique
-
-
-def sort_articles(articles: list[dict]) -> list[dict]:
-    """Sort newest-first; articles without a date go to the bottom."""
-    def key(a):
-        d = a.get("published", "")
-        return d if d else "0000"
-
-    return sorted(articles, key=key, reverse=True)
-
-
-# ---------------------------------------------------------------------------
-# Writers
-# ---------------------------------------------------------------------------
-
-def write_json(articles: list[dict], path: Path) -> None:
-    payload = {
-        "scraped_at": datetime.now(timezone.utc).isoformat(),
-        "count":      len(articles),
-        "articles":   articles,
-    }
-    path.write_text(json.dumps(payload, indent=2, ensure_ascii=False), encoding="utf-8")
-    print(f"\n📄  JSON  → {path}  ({len(articles)} articles)")
-
-
-def write_markdown(articles: list[dict], path: Path) -> None:
-    now_str = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
-    lines = [
-        "---",
-        "title: F1 News",
-        "---",
-        "",
-        "# 🏎️  F1 News — Latest Headlines",
-        "",
-        f"_Last updated: {now_str}_  ",
-        f"_Total articles: {len(articles)}_",
-        "",
-        "---",
-        "",
-    ]
-
-    for i, a in enumerate(articles, 1):
-        pub = f"  _{a['published'][:10]}_" if a.get("published") else ""
-        lines.append(f"### {i}. [{a['title']}]({a['url']})")
-        lines.append(f"**Source:** {a['source']}{pub}  ")
-        if a.get("summary"):
-            lines.append(f"{a['summary']}")
-        lines.append("")
-        lines.append("---")
-        lines.append("")
-
-    path.write_text("\n".join(lines), encoding="utf-8")
-    print(f"📝  Markdown → {path}")
-
-
-# ---------------------------------------------------------------------------
-# Entry point
-# ---------------------------------------------------------------------------
-
-def main() -> None:
-    print("🏁  F1 RSS Scraper starting…\n")
-    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
-
+def main():
+    print(f"Scraping {len(RSS_FEEDS)} F1 RSS feeds…")
     all_articles: list[dict] = []
+
     for name, url in RSS_FEEDS.items():
-        all_articles.extend(fetch_feed(name, url))
+        print(f"  → {name}")
+        items = scrape_feed(name, url)
+        all_articles.extend(items)
+        print(f"     {len(items)} articles fetched")
 
-    all_articles = deduplicate(all_articles)
-    all_articles = sort_articles(all_articles)
+    # Sort newest first (empty dates go to the end)
+    all_articles.sort(key=lambda a: a["published_at"] or "0", reverse=True)
 
-    write_json(all_articles, JSON_FILE)
-    write_markdown(all_articles, MD_FILE)
+    output = {
+        "last_updated": datetime.now(timezone.utc).isoformat(),
+        "total_articles": len(all_articles),
+        "sources": list(RSS_FEEDS.keys()),
+        "articles": all_articles,
+    }
 
-    print(f"\n✅  Done — {len(all_articles)} unique articles scraped.")
+    # ── Write to docs/f1_news.json ─────────────────────────────────────────────
+    out_path = Path("docs") / "f1_news.json"
+    out_path.parent.mkdir(parents=True, exist_ok=True)
+    with open(out_path, "w", encoding="utf-8") as f:
+        json.dump(output, f, ensure_ascii=False, indent=2)
+
+    print(f"\n✓ Saved {len(all_articles)} articles → {out_path}")
 
 
 if __name__ == "__main__":
