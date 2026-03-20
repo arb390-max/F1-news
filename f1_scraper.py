@@ -1,11 +1,10 @@
 """
 f1_scraper.py
-Scrapes F1 news from multiple RSS feeds and saves results to JSON + Markdown.
+Scrapes F1 news from multiple RSS feeds and saves results to docs/ for GitHub Pages.
 No API keys required — pure RSS/HTML parsing.
 """
 
 import json
-import os
 import re
 from datetime import datetime, timezone
 from pathlib import Path
@@ -28,9 +27,10 @@ RSS_FEEDS = {
     "The Race":         "https://the-race.com/feed/",
 }
 
-OUTPUT_DIR = Path("f1_news")
+# Output goes to docs/ so GitHub Pages can serve it directly
+OUTPUT_DIR = Path("docs")
 JSON_FILE  = OUTPUT_DIR / "latest_news.json"
-MD_FILE    = OUTPUT_DIR / "latest_news.md"
+MD_FILE    = OUTPUT_DIR / "index.md"        # index.md becomes the Pages homepage
 
 HEADERS = {
     "User-Agent": (
@@ -146,18 +146,28 @@ def write_json(articles: list[dict], path: Path) -> None:
 def write_markdown(articles: list[dict], path: Path) -> None:
     now_str = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
     lines = [
-        "# 🏎️  F1 News — Latest Headlines\n",
-        f"_Last updated: {now_str}_\n",
-        f"_Total articles: {len(articles)}_\n\n---\n",
+        "---",
+        "title: F1 News",
+        "---",
+        "",
+        "# 🏎️  F1 News — Latest Headlines",
+        "",
+        f"_Last updated: {now_str}_  ",
+        f"_Total articles: {len(articles)}_",
+        "",
+        "---",
+        "",
     ]
 
     for i, a in enumerate(articles, 1):
         pub = f"  _{a['published'][:10]}_" if a.get("published") else ""
         lines.append(f"### {i}. [{a['title']}]({a['url']})")
-        lines.append(f"**Source:** {a['source']}{pub}\n")
+        lines.append(f"**Source:** {a['source']}{pub}  ")
         if a.get("summary"):
-            lines.append(f"{a['summary']}\n")
-        lines.append("---\n")
+            lines.append(f"{a['summary']}")
+        lines.append("")
+        lines.append("---")
+        lines.append("")
 
     path.write_text("\n".join(lines), encoding="utf-8")
     print(f"📝  Markdown → {path}")
