@@ -37,20 +37,26 @@ jobs:
         run: pip install -r requirements.txt
 
       # -----------------------------------------------------------------------
-      # 4. Run scraper
+      # 4. Ensure docs/ exists (GitHub Pages source folder)
+      # -----------------------------------------------------------------------
+      - name: Ensure docs folder exists
+        run: mkdir -p docs
+
+      # -----------------------------------------------------------------------
+      # 5. Run scraper — writes to docs/index.md and docs/latest_news.json
       # -----------------------------------------------------------------------
       - name: Run F1 RSS scraper
         run: python f1_scraper.py
 
       # -----------------------------------------------------------------------
-      # 5. Commit & push results
+      # 6. Commit & push results
       #    Only commits if there are actual changes (idempotent)
       # -----------------------------------------------------------------------
       - name: Commit scraped output
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add f1_news/latest_news.json f1_news/latest_news.md
+          git add docs/index.md docs/latest_news.json
           git diff --cached --quiet || \
             git commit -m "chore: update F1 news [$(date -u '+%Y-%m-%d %H:%M UTC')]"
           git push
