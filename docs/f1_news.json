@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-20T23:01:04.870523+00:00",
+  "last_updated": "2026-03-21T04:55:31.528720+00:00",
   "total_articles": 105,
   "sources": [
     "Formula1.com",
@@ -12,6 +12,29 @@
     "Crash.net F1"
   ],
   "articles": [
+    {
+      "source": "RaceFans",
+      "title": "Round-up: Antonelli debut at Ferrari would’ve ‘destroyed’ him says ex-boss, and more | RaceFans round-up",
+      "url": "https://www.racefans.net/2026/03/21/round-up-21st-march-2026/",
+      "published_at": "2026-03-21T00:01:00+00:00",
+      "summary": "Saturday's edition of the RaceFans round-up.",
+      "author": "Keith Collantine",
+      "tags": [
+        "RaceFans Round-up"
+      ]
+    },
+    {
+      "source": "Motorsport.com",
+      "title": "Sebastian Vettel and Tom Clarkson to run London Marathon for two F1-related charities",
+      "url": "https://www.motorsport.com/f1/news/sebastian-vettel-and-tom-clarkson-to-run-london-marathon-for-two-f1-related-charities/10806886/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "published_at": "2026-03-20T23:21:40+00:00",
+      "summary": "Four-time Formula 1 champion Sebastian Vettel will join F1 journalist Tom Clarkson to run the London Marathon to raise money for the Grand Prix Trust and the Brain & Spine Foundation.Vettel, who retired from F1 at the end of the 2022 season, will join Clarkson along with the journalist's son and daughter. The Brain & Spine Foundation was founded by former F1 safety and medical delegate ...Keep reading",
+      "author": "",
+      "tags": [
+        "F1 Chinese Grand Prix",
+        "Formula 1"
+      ]
+    },
     {
       "source": "Motorsport.com",
       "title": "Jonathan Wheatley's Audi exit sparks strong reaction from Formula 1 fans",
@@ -557,18 +580,6 @@
       "author": "",
       "tags": [
         "F1"
-      ]
-    },
-    {
-      "source": "Motorsport.com",
-      "title": "Esteban Ocon’s Haas form sparks strong final-year warning from Guenther Steiner",
-      "url": "https://www.motorsport.com/f1/news/esteban-ocons-haas-form-sparks-strong-final-year-warning-from-guenther-steiner/10806488/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "published_at": "2026-03-19T15:52:32+00:00",
-      "summary": "Former Haas Formula 1 team principal Guenther Steiner believes that if Esteban Ocon continues in his current form, it will be his last year in the championship. The Frenchman was handed a 10-second penalty during the Chinese Grand Prix for causing a collision with Alpine's Franco Colapinto. The Haas driver apologised to Colapinto after the race, claiming, \"It's my fault, I did a mistake, I ...Keep reading",
-      "author": "",
-      "tags": [
-        "F1 Chinese Grand Prix",
-        "Formula 1"
       ]
     },
     {
@@ -1137,21 +1148,6 @@
       "tags": [
         "Shanghai International Circuit",
         "Formula 1"
-      ]
-    },
-    {
-      "source": "RaceFans",
-      "title": "Ocon given no penalty points for collision with Colapinto | Formula 1",
-      "url": "https://www.racefans.net/2026/03/15/ocon-given-no-penalty-points-for-collision-with-colapinto/",
-      "published_at": "2026-03-15T09:26:36+00:00",
-      "summary": "The stewards gave Esteban Ocon no penalty points for his collision with Franco Colapinto, in a further sign they have softened their approach this year.",
-      "author": "Keith Collantine",
-      "tags": [
-        "2026 F1 season",
-        "Formula 1",
-        "2026 Chinese Grand Prix",
-        "Esteban Ocon",
-        "Franco Colapinto"
       ]
     },
     {
