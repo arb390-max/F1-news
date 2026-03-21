@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-21T20:55:32.254571+00:00",
+  "last_updated": "2026-03-21T21:50:18.647360+00:00",
   "total_articles": 105,
   "sources": [
     "Formula1.com",
@@ -12,6 +12,17 @@
     "Crash.net F1"
   ],
   "articles": [
+    {
+      "source": "The Race",
+      "title": "Winners and losers from first Brazilian MotoGP sprint",
+      "url": "https://www.the-race.com/motogp/winners-and-losers-from-first-brazilian-motogp-sprint/",
+      "published_at": "2026-03-21T21:40:52+00:00",
+      "summary": "A familiar winner, but an interesting lead battle set the scene for plenty to unpick from the Brazilian Grand Prix. Here are our winners and losers from the 15-lap Goiania MotoGP showdown",
+      "author": "Valentin Khorounzhiy",
+      "tags": [
+        "MotoGP"
+      ]
+    },
     {
       "source": "The Race",
       "title": "Marquez takes first win of 2026 in delayed Brazil MotoGP sprint",
@@ -385,17 +396,6 @@
       "author": "",
       "tags": [
         "F1"
-      ]
-    },
-    {
-      "source": "The Race",
-      "title": "Audi F1 team principal Wheatley leaves 'with immediate effect'",
-      "url": "https://www.the-race.com/formula-1/audi-f1-team-principal-wheatley-leaves-with-immediate-effect/",
-      "published_at": "2026-03-20T15:06:31+00:00",
-      "summary": "Audi team principal Jonathan Wheatley has left just two races into the 2026 F1 season - and is expected to seal a move to Aston Martin",
-      "author": "Scott Mitchell-Malm",
-      "tags": [
-        "Formula 1"
       ]
     },
     {
