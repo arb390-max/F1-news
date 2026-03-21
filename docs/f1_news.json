@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-21T13:55:21.588751+00:00",
+  "last_updated": "2026-03-21T14:56:52.946336+00:00",
   "total_articles": 105,
   "sources": [
     "Formula1.com",
@@ -12,6 +12,17 @@
     "Crash.net F1"
   ],
   "articles": [
+    {
+      "source": "The Race",
+      "title": "Di Giannantonio grabs surprise Brazil MotoGP pole in mad qualifying",
+      "url": "https://www.the-race.com/motogp/brazil-motogp-qualifying-crashes-fabio-di-giannantonio/",
+      "published_at": "2026-03-21T14:38:24+00:00",
+      "summary": "VR46 Ducati rider Fabio Di Giannantonio took pole position for the Brazilian Grand Prix at Goiania, in a crash-filled MotoGP qualifying",
+      "author": "Valentin Khorounzhiy",
+      "tags": [
+        "MotoGP"
+      ]
+    },
     {
       "source": "Motorsport.com",
       "title": "Kimi Antonelli would “love” to do a GT race with Max Verstappen",
@@ -379,7 +390,7 @@
     },
     {
       "source": "Autosport",
-      "title": "How Fernando Alonso’s terrifying 2016 Australian GP crash broke down barriers",
+      "title": "How Alonso’s terrifying 2016 Australian GP crash broke down barriers",
       "url": "https://www.autosport.com/f1/news/how-fernando-alonsos-terrifying-2016-australian-gp-crash-broke-down-barriers/10806693/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "published_at": "2026-03-20T13:03:33+00:00",
       "summary": "March 20, 2016 remains one of those days when Formula 1 frightened us, but also demonstrated its continuous progress in safety and its determination to always go further. It was 10 years ago, during the Australian Grand Prix, and a shocking crash sustained by Fernando Alonso is still vivid in some memories.On lap 17 of the race, while battling for 19th place at the wheel of an underperforming ...Keep reading",
@@ -644,17 +655,6 @@
       "author": "",
       "tags": [
         "Formula 1"
-      ]
-    },
-    {
-      "source": "The Race",
-      "title": "Everything we've already learned about MotoGP's unique new track",
-      "url": "https://www.the-race.com/motogp/what-we-have-already-learned-motogp-brazilian-gp-track-goiania/",
-      "published_at": "2026-03-19T17:53:17+00:00",
-      "summary": "\"Very narrow but fast and technical\" - here's what MotoGP riders are saying about the Goiania track that hosts the Brazilian GP this weekend",
-      "author": "Valentin Khorounzhiy",
-      "tags": [
-        "MotoGP"
       ]
     },
     {
@@ -1153,7 +1153,7 @@
     },
     {
       "source": "Formula1.com",
-      "title": "Why Lawson's performance in China showed how far he's come",
+      "title": "Why Lawson's China performance showed how far he's come",
       "url": "https://www.formula1.com/en/latest/article/barretto-why-lawsons-performance-in-china-showed-how-far-hes-come-since-his.14uMvO8a6UDujwox3C6keP",
       "published_at": "",
       "summary": "Almost a year on from his Red Bull demotion, Liam Lawson has built himself back up – with his performance in China testament to that.",
