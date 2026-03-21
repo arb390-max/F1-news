@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-21T19:04:28.515479+00:00",
+  "last_updated": "2026-03-21T20:55:32.254571+00:00",
   "total_articles": 105,
   "sources": [
     "Formula1.com",
@@ -12,6 +12,40 @@
     "Crash.net F1"
   ],
   "articles": [
+    {
+      "source": "The Race",
+      "title": "Marquez takes first win of 2026 in delayed Brazil MotoGP sprint",
+      "url": "https://www.the-race.com/motogp/marquez-takes-first-win-of-2026-in-delayed-brazil-motogp-sprint/",
+      "published_at": "2026-03-21T19:50:17+00:00",
+      "summary": "Defending MotoGP champion Marc Marquez took his first victory of the 2026 season in the delayed Goiania sprint, defeating Ducati stablemate Fabio Di Giannantonio",
+      "author": "Valentin Khorounzhiy",
+      "tags": [
+        "MotoGP"
+      ]
+    },
+    {
+      "source": "Crash.net F1",
+      "title": "Max Verstappen's Nurburgring win stripped from him over tyre error",
+      "url": "https://www.crash.net/f1/news/1091767/1/max-verstappen-wins-mercedes-debut-his-second-nurburgring-race",
+      "published_at": "2026-03-21T19:20:00+00:00",
+      "summary": "F1 champion Max Verstappen scored his second NLS victory on Saturday, but was later disqualified",
+      "author": "",
+      "tags": [
+        "F1"
+      ]
+    },
+    {
+      "source": "The Race",
+      "title": "Verstappen stripped of Nurburgring win",
+      "url": "https://www.the-race.com/endurance/verstappen-stripped-of-nurburgring-win/",
+      "published_at": "2026-03-21T19:11:28+00:00",
+      "summary": "Max Verstappen's crew has been disqualified from this Saturday's Nurburgring Langstrecken-Serie race after winning on the road",
+      "author": "Valentin Khorounzhiy",
+      "tags": [
+        "Endurance",
+        "Formula 1"
+      ]
+    },
     {
       "source": "The Race",
       "title": "Gresini could switch to Honda MotoGP bikes in 2027",
@@ -45,17 +79,6 @@
       "author": "Simon Patterson",
       "tags": [
         "MotoGP"
-      ]
-    },
-    {
-      "source": "Crash.net F1",
-      "title": "Max Verstappen wins on Mercedes debut in his second Nurburgring race",
-      "url": "https://www.crash.net/f1/news/1091767/1/max-verstappen-wins-mercedes-debut-his-second-nurburgring-race",
-      "published_at": "2026-03-21T15:15:25+00:00",
-      "summary": "F1 champion Max Verstappen scored his second NLS victory on Saturday",
-      "author": "",
-      "tags": [
-        "F1"
       ]
     },
     {
@@ -425,17 +448,6 @@
       ]
     },
     {
-      "source": "The Race",
-      "title": "Mercedes appoints new F1 deputy team boss",
-      "url": "https://www.the-race.com/formula-1/mercedes-f1-2026-deputy-team-principal-bradley-lord/",
-      "published_at": "2026-03-20T14:34:54+00:00",
-      "summary": "Mercedes has updated its Formula 1 team’s leadership structure by appointing Bradley Lord as deputy team principal",
-      "author": "Scott Mitchell-Malm",
-      "tags": [
-        "Formula 1"
-      ]
-    },
-    {
       "source": "Crash.net F1",
       "title": "Mercedes announces significant F1 management change",
       "url": "https://www.crash.net/f1/news/1091617/1/mercedes-announces-significant-f1-management-change",
@@ -444,17 +456,6 @@
       "author": "",
       "tags": [
         "F1"
-      ]
-    },
-    {
-      "source": "The Race",
-      "title": "Opel launches Formula E entry",
-      "url": "https://www.the-race.com/formula-e/opel-launches-formula-e-entry/",
-      "published_at": "2026-03-20T14:01:10+00:00",
-      "summary": "Opel will join the Formula E grid with a new factory team next season",
-      "author": "Sam Smith",
-      "tags": [
-        "Formula E"
       ]
     },
     {
