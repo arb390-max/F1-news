@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-21T07:11:02.978881+00:00",
+  "last_updated": "2026-03-21T09:03:06.772160+00:00",
   "total_articles": 105,
   "sources": [
     "Formula1.com",
@@ -12,6 +12,62 @@
     "Crash.net F1"
   ],
   "articles": [
+    {
+      "source": "Crash.net F1",
+      "title": "WATCH LIVE: Max Verstappen’s Mercedes race debut at the Nurburgring in NLS2",
+      "url": "https://www.crash.net/f1/news/1091670/1/watch-live-max-verstappens-mercedes-race-debut-nurburgring-nls2",
+      "published_at": "2026-03-21T09:00:00+00:00",
+      "summary": "Watch live and free Max Verstappen race at the Nurburgring in NLS2",
+      "author": "",
+      "tags": [
+        "F1"
+      ]
+    },
+    {
+      "source": "Crash.net F1",
+      "title": "Rally superstar’s F1 dream dealt heartbreaking blow due to health issues",
+      "url": "https://www.crash.net/f1/news/1091719/1/rally-superstars-f1-dream-dealt-heartbreaking-blow-due-health-issues",
+      "published_at": "2026-03-21T08:35:13+00:00",
+      "summary": "Kalle Rovanpera’s hopes of reaching F1 have taken a big knock due to health issues",
+      "author": "",
+      "tags": [
+        "F1"
+      ]
+    },
+    {
+      "source": "The Race",
+      "title": "The questions raised by Audi's shock F1 team boss exit",
+      "url": "https://www.the-race.com/formula-1/the-questions-raised-by-audis-shock-f1-team-boss-exit/",
+      "published_at": "2026-03-21T08:10:43+00:00",
+      "summary": "The shock exit of Audi's team principal after just two races of its Formula 1 journey marks a dramatic, unexpected setback for the new works team",
+      "author": "Scott Mitchell-Malm",
+      "tags": [
+        "Formula 1"
+      ]
+    },
+    {
+      "source": "The Race",
+      "title": "Watch Max Verstappen racing at the Nurburgring LIVE",
+      "url": "https://www.the-race.com/endurance/watch-max-verstappen-racing-at-the-nurburgring-live/",
+      "published_at": "2026-03-21T08:10:30+00:00",
+      "summary": "Watch Max Verstappen in GT action on the Nurburgring Nordschleife in NLS2 - live!",
+      "author": "The Race Team",
+      "tags": [
+        "Endurance",
+        "Formula 1"
+      ]
+    },
+    {
+      "source": "The Race",
+      "title": "Rally champion's F1 dream suspended due to health issues",
+      "url": "https://www.the-race.com/formula-1/kalle-rovanpera-rally-champion-super-formula-f1-toyota/",
+      "published_at": "2026-03-21T08:04:34+00:00",
+      "summary": "Two-time World Rally champion Kalle Rovanpera has had to call off his Super Formula debut - and thus suspend his quest to reach Formula 1 - due to health problems",
+      "author": "Valentin Khorounzhiy",
+      "tags": [
+        "Formula 1"
+      ]
+    },
     {
       "source": "RaceFans",
       "title": "Round-up: Antonelli debut at Ferrari would’ve ‘destroyed’ him says ex-boss, and more | RaceFans round-up",
@@ -583,17 +639,6 @@
       ]
     },
     {
-      "source": "The Race",
-      "title": "'We've tried talking' - why Formula E drivers made their incendiary move",
-      "url": "https://www.the-race.com/formula-e/weve-tried-talking-why-formula-e-drivers-made-their-incendiary-move/",
-      "published_at": "2026-03-19T15:30:36+00:00",
-      "summary": "One of the prime movers in the Formula E drivers' extraordinary plea to the FIA president for change explains why they did it",
-      "author": "Sam Smith",
-      "tags": [
-        "Formula E"
-      ]
-    },
-    {
       "source": "Autosport",
       "title": "Newey to step down as Aston Martin F1 team principal, Wheatley set to join from Audi",
       "url": "https://www.autosport.com/f1/news/adrian-newey-to-step-down-as-aston-martin-f1-team-principal/10806485/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
@@ -603,17 +648,6 @@
       "tags": [
         "Shanghai International Circuit",
         "Formula 1"
-      ]
-    },
-    {
-      "source": "The Race",
-      "title": "DS exits Formula E ahead of Opel's arrival",
-      "url": "https://www.the-race.com/formula-e/ds-brand-exits-formula-e-ahead-of-opels-arrival/",
-      "published_at": "2026-03-19T14:46:43+00:00",
-      "summary": "DS out, Opel in (soon) - Stellantis makes part one of its upcoming Formula E rejig official",
-      "author": "Jack Cozens",
-      "tags": [
-        "Formula E"
       ]
     },
     {
@@ -636,17 +670,6 @@
       "author": "",
       "tags": [
         "Shanghai International Circuit",
-        "Formula 1"
-      ]
-    },
-    {
-      "source": "The Race",
-      "title": "What Ferrari thinks Mercedes is hiding in political F1 engine game",
-      "url": "https://www.the-race.com/formula-1/does-ferrari-think-mercedes-hiding-something-f1-engine/",
-      "published_at": "2026-03-19T12:36:04+00:00",
-      "summary": "Ferrari is convinced it'll get an engine upgrade because of its deficit to Mercedes at the start of F1 2026. Does it think its rival is hiding something?",
-      "author": "Rosario Giuliana",
-      "tags": [
         "Formula 1"
       ]
     },
@@ -811,28 +834,6 @@
       "url": "https://www.crash.net/f1/feature/1091576/1/how-f1s-newest-winner-has-proved-his-age-critics-wrong",
       "published_at": "2026-03-18T11:40:03+00:00",
       "summary": "F1's newest winner Andrea Kimi Antonelli delivered the perfect response to his age critics, writes Lewis Larkam.",
-      "author": "",
-      "tags": [
-        "F1"
-      ]
-    },
-    {
-      "source": "Crash.net F1",
-      "title": "Ferrari responds to rival’s “selfish” jabs over F1 start rule changes",
-      "url": "https://www.crash.net/f1/news/1091542/1/ferrari-responds-rivals-selfish-jabs-over-f1-start-rule-changes",
-      "published_at": "2026-03-18T11:15:00+00:00",
-      "summary": "Ferrari’s Fred Vasseur has responded to claims it has stood in the way of changes to the F1 start rules",
-      "author": "",
-      "tags": [
-        "F1"
-      ]
-    },
-    {
-      "source": "Crash.net F1",
-      "title": "Liam Lawson hails Red Bull-Ford F1 engine turnaround after worrying pre-season speculation",
-      "url": "https://www.crash.net/f1/news/1091574/1/liam-lawson-hails-red-bull-ford-turnaround-after-not-hearing-amazing-things",
-      "published_at": "2026-03-18T10:35:16+00:00",
-      "summary": "Liam Lawson revealed he wasn't \"super-confident\" of the Red Bull Ford power unit",
       "author": "",
       "tags": [
         "F1"
