@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-22T15:52:29.272082+00:00",
+  "last_updated": "2026-03-22T17:00:09.193690+00:00",
   "total_articles": 105,
   "sources": [
     "Formula1.com",
@@ -12,6 +12,29 @@
     "Crash.net F1"
   ],
   "articles": [
+    {
+      "source": "Motorsport.com",
+      "title": "David Coulthard questions driver impact of Aston Martin vibration problems with strong stance",
+      "url": "https://www.motorsport.com/f1/news/david-coulthard-questions-driver-impact-of-aston-martin-vibration-problems-with-strong-stance/10807340/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "published_at": "2026-03-22T16:28:20+00:00",
+      "summary": "Former Formula 1 driver David Coulthard believes that the vibration issues that Aston Martin is battling against are 'more of an issue for the reliability than for the driver'.Aston Martin has had a difficult start to the year. With a new power unit partnership with Honda and the first Aston Martin F1 car designed under Adrian Newey, expectations were high for the Silverstone outfit. But ...Keep reading",
+      "author": "",
+      "tags": [
+        "F1 Chinese Grand Prix",
+        "Formula 1"
+      ]
+    },
+    {
+      "source": "Crash.net F1",
+      "title": "Mercedes explains tyre error that caused Max Verstappen’s Nurburgring disqualification",
+      "url": "https://www.crash.net/f1/news/1091827/1/mercedes-explains-tyre-error-caused-max-verstappens-nurburgring-disqualification",
+      "published_at": "2026-03-22T16:25:04+00:00",
+      "summary": "Mercedes has issued a statement on Max Verstappen’s Nurburgring disqualification",
+      "author": "",
+      "tags": [
+        "F1"
+      ]
+    },
     {
       "source": "Motorsport.com",
       "title": "F1 fans left 'jaw-dropped' as Racing Bulls Japanese GP livery sparks huge reaction",
@@ -632,18 +655,6 @@
       ]
     },
     {
-      "source": "Motorsport.com",
-      "title": "Alpine now targets McLaren, Red Bull, Ferrari: “We have the potential to be in that pack”",
-      "url": "https://www.motorsport.com/f1/news/alpine-now-targets-mclaren-red-bull-ferrari-we-have-the-potential-to-be-in-that-pack/10806352/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "published_at": "2026-03-20T12:10:13+00:00",
-      "summary": "Pierre Gasly believes the Alpine Formula 1 team has the required potential to challenge the likes of McLaren, Ferrari and Red Bull in the 2026 season.After spending the 2025 campaign as a clear backmarker, the Enstone-based outfit ended its engine programme, switching to Mercedes powertrains. It fully focused on its 2026 car early on last year and appears to have bounced back into the ...Keep reading",
-      "author": "",
-      "tags": [
-        "F1 Chinese Grand Prix",
-        "Formula 1"
-      ]
-    },
-    {
       "source": "Crash.net F1",
       "title": "Fred Vasseur: New F1 cars don’t suit Charles Leclerc’s style, but he’s adjusting",
       "url": "https://www.crash.net/f1/news/1091607/1/fred-vasseur-new-cars-dont-suit-charles-leclercs-style-hes-adjusting",
@@ -887,17 +898,6 @@
       "author": "Keith Collantine",
       "tags": [
         "RaceFans Round-up"
-      ]
-    },
-    {
-      "source": "Crash.net F1",
-      "title": "Fernando Alonso opens up on ‘pain’ of Aston Martin-Honda’s F1 struggles",
-      "url": "https://www.crash.net/f1/news/1091583/1/fernando-alonso-opens-pain-aston-martin-hondas-f1-struggles",
-      "published_at": "2026-03-18T16:32:20+00:00",
-      "summary": "Fernando Alonso sheds light on the 'pain' of Aston Martin's F1 struggles in 2026.",
-      "author": "",
-      "tags": [
-        "F1"
       ]
     },
     {
