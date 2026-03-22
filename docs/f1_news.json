@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-22T05:13:47.210605+00:00",
+  "last_updated": "2026-03-22T07:52:31.876532+00:00",
   "total_articles": 105,
   "sources": [
     "Formula1.com",
@@ -12,6 +12,17 @@
     "Crash.net F1"
   ],
   "articles": [
+    {
+      "source": "The Race",
+      "title": "Yet another Williams car problem might be its most troubling",
+      "url": "https://www.the-race.com/formula-1/yet-another-williams-car-problem-might-be-its-most-troubling/",
+      "published_at": "2026-03-22T07:39:17+00:00",
+      "summary": "There are other issues affecting Williams beyond its car being overweight. One that blighted Alex Albon's Chinese GP is of particular concern",
+      "author": "Scott Mitchell-Malm",
+      "tags": [
+        "Formula 1"
+      ]
+    },
     {
       "source": "RaceFans",
       "title": "Round-up: Verstappen, Juncadella and Gounon win at Nurburgring, and more | RaceFans round-up",
@@ -373,17 +384,6 @@
       "author": "Scott Mitchell-Malm",
       "tags": [
         "Formula 1"
-      ]
-    },
-    {
-      "source": "The Race",
-      "title": "What went on in MotoGP's first Brazilian GP session",
-      "url": "https://www.the-race.com/motogp/what-went-on-in-motogps-first-brazilian-gp-session/",
-      "published_at": "2026-03-20T16:12:44+00:00",
-      "summary": "Everything that happened as the MotoGP field got a damp and delayed first taste of Goiania",
-      "author": "Valentin Khorounzhiy",
-      "tags": [
-        "MotoGP"
       ]
     },
     {
