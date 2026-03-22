@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-21T23:52:12.537214+00:00",
+  "last_updated": "2026-03-22T05:13:47.210605+00:00",
   "total_articles": 105,
   "sources": [
     "Formula1.com",
@@ -12,6 +12,17 @@
     "Crash.net F1"
   ],
   "articles": [
+    {
+      "source": "RaceFans",
+      "title": "Round-up: Verstappen, Juncadella and Gounon win at Nurburgring, and more | RaceFans round-up",
+      "url": "https://www.racefans.net/2026/03/22/round-up-22nd-march-2026/",
+      "published_at": "2026-03-22T00:01:00+00:00",
+      "summary": "Sunday's edition of the RaceFans round-up.",
+      "author": "Keith Collantine",
+      "tags": [
+        "RaceFans Round-up"
+      ]
+    },
     {
       "source": "The Race",
       "title": "Winners and losers from first Brazilian MotoGP sprint",
@@ -1115,20 +1126,6 @@
         "Formula 1",
         "Race data",
         "2026 Chinese Grand Prix"
-      ]
-    },
-    {
-      "source": "RaceFans",
-      "title": "Antonelli admits he “relaxed too much” before mistake near end of race | Formula 1",
-      "url": "https://www.racefans.net/2026/03/15/antonelli-admits-he-relaxed-too-much-before-mistake-near-end-of-race/",
-      "published_at": "2026-03-15T12:41:39+00:00",
-      "summary": "Andrea Kimi Antonelli said the mistake which sent him off-track in the final laps of the Chinese Grand Prix was the result of him \"relaxing too much\" in the car.",
-      "author": "Keith Collantine",
-      "tags": [
-        "2026 F1 season",
-        "Formula 1",
-        "2026 Chinese Grand Prix",
-        "Andrea Kimi Antonelli"
       ]
     },
     {
