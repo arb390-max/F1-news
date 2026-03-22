@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-22T07:52:31.876532+00:00",
+  "last_updated": "2026-03-22T09:04:29.836853+00:00",
   "total_articles": 105,
   "sources": [
     "Formula1.com",
@@ -12,6 +12,17 @@
     "Crash.net F1"
   ],
   "articles": [
+    {
+      "source": "Crash.net F1",
+      "title": "How F1’s most controversial safety change has earned its keep eight years on",
+      "url": "https://www.crash.net/f1/news/1091662/1/how-f1s-most-controversial-safety-change-has-earned-its-keep-eight-years",
+      "published_at": "2026-03-22T08:00:00+00:00",
+      "summary": "The halo is a fixture in Modern Formula 1, but it was not always this way.",
+      "author": "",
+      "tags": [
+        "F1"
+      ]
+    },
     {
       "source": "The Race",
       "title": "Yet another Williams car problem might be its most troubling",
@@ -863,17 +874,6 @@
       "url": "https://www.crash.net/f1/news/1091581/1/oscar-piastri-explains-mclaren-lessons-disastrous-chinese-gp",
       "published_at": "2026-03-18T15:10:41+00:00",
       "summary": "Oscar Piastri believes there were positives and lessons for McLaren to take from a difficult Chinese GP weekend.",
-      "author": "",
-      "tags": [
-        "F1"
-      ]
-    },
-    {
-      "source": "Crash.net F1",
-      "title": "Audi reveals drawback of having no customer teams",
-      "url": "https://www.crash.net/f1/news/1091577/1/audi-reveals-drawback-having-no-customer-teams",
-      "published_at": "2026-03-18T14:15:00+00:00",
-      "summary": "Audi is batting against the odds to match Mercedes and Ferrari, with their customer team backing.",
       "author": "",
       "tags": [
         "F1"
