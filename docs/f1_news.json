@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-22T19:16:10.603752+00:00",
+  "last_updated": "2026-03-22T20:57:21.494562+00:00",
   "total_articles": 105,
   "sources": [
     "Formula1.com",
@@ -12,6 +12,17 @@
     "Crash.net F1"
   ],
   "articles": [
+    {
+      "source": "The Race",
+      "title": "Why MotoGP's Brazil race was suddenly slashed - and what annoyed riders most",
+      "url": "https://www.the-race.com/motogp/why-motogps-brazil-race-was-suddenly-slashed-and-what-annoyed-riders-most/",
+      "published_at": "2026-03-22T20:25:19+00:00",
+      "summary": "MotoGP riders have shed some more light on the sudden shortening of the Brazilian Grand Prix at Goiania due to track damage",
+      "author": "Valentin Khorounzhiy",
+      "tags": [
+        "MotoGP"
+      ]
+    },
     {
       "source": "The Race",
       "title": "Aprilia 1-2 in MotoGP's truncated Brazilian GP",
@@ -450,17 +461,6 @@
       "author": "The Race Team",
       "tags": [
         "Endurance",
-        "Formula 1"
-      ]
-    },
-    {
-      "source": "The Race",
-      "title": "Health problems suspend Rovanpera's F1 chase for now",
-      "url": "https://www.the-race.com/formula-1/kalle-rovanpera-rally-champion-super-formula-f1-toyota/",
-      "published_at": "2026-03-21T08:04:34+00:00",
-      "summary": "Two-time World Rally champion Kalle Rovanpera has had to call off his Super Formula debut - and thus suspend his quest to reach Formula 1 - due to health problems",
-      "author": "Valentin Khorounzhiy",
-      "tags": [
         "Formula 1"
       ]
     },
