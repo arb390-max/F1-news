@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-23T22:01:48.039923+00:00",
+  "last_updated": "2026-03-23T23:59:05.680015+00:00",
   "total_articles": 105,
   "sources": [
     "Formula1.com",
@@ -12,6 +12,18 @@
     "Crash.net F1"
   ],
   "articles": [
+    {
+      "source": "Motorsport.com",
+      "title": "Lewis Hamilton backed for Ferrari resurgence as James Hinchcliffe spots major change",
+      "url": "https://www.motorsport.com/f1/news/lewis-hamilton-backed-for-ferrari-resurgence-as-james-hinchcliffe-spots-major-change/10807605/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "published_at": "2026-03-23T23:11:28+00:00",
+      "summary": "James Hinchcliffe defiantly stated during the F1 Nation podcast that 'Lewis Hamilton is back,' arguing that 'this is everything that all the Ferrari fans were hoping for at the start of 2025.'Hamilton suffered a difficult first season with Ferrari after he joined the Maranello outfit at the start of 2025. As he took time to adapt to the new team, he managed to secure only one sprint race win ...Keep reading",
+      "author": "",
+      "tags": [
+        "Suzuka",
+        "Formula 1"
+      ]
+    },
     {
       "source": "Motorsport.com",
       "title": "Max Verstappen Mercedes talks \"going to happen\", according to Jolyon Palmer",
@@ -596,21 +608,6 @@
       "tags": [
         "Endurance",
         "Formula 1"
-      ]
-    },
-    {
-      "source": "Motorsport.com",
-      "title": "Kimi Antonelli would “love” to do a GT race with Max Verstappen",
-      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-would-love-to-do-a-gt-race-with-max-verstappen/10806939/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "published_at": "2026-03-21T13:00:04+00:00",
-      "summary": "Mercedes Formula 1 driver Kimi Antonelli has expressed a desire to team up with Max Verstappen for an endurance race, revealing he has already asked for a Nordschleife test.Antonelli’s family has strong ties to sportscar racing, with his father Marco an accomplished driver in his own right with decades of experience in GT and TCR machinery.The 19-year-old has himself shown inclination ...Keep reading",
-      "author": "",
-      "tags": [
-        "F1 Chinese Grand Prix",
-        "Endurance",
-        "Formula 1",
-        "GT",
-        "NLS"
       ]
     },
     {
