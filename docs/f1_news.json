@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-22T23:57:31.021658+00:00",
+  "last_updated": "2026-03-23T05:50:10.833709+00:00",
   "total_articles": 105,
   "sources": [
     "Formula1.com",
@@ -12,6 +12,17 @@
     "Crash.net F1"
   ],
   "articles": [
+    {
+      "source": "RaceFans",
+      "title": "Round-up: Mercedes explains error behind Verstappen’s Nurburgring disqualification, and more | RaceFans round-up",
+      "url": "https://www.racefans.net/2026/03/23/round-up-23rd-march-2026/",
+      "published_at": "2026-03-23T00:01:00+00:00",
+      "summary": "Monday's edition of the RaceFans round-up.",
+      "author": "Keith Collantine",
+      "tags": [
+        "RaceFans Round-up"
+      ]
+    },
     {
       "source": "The Race",
       "title": "Why MotoGP's Brazil race was suddenly slashed - and what annoyed riders most",
@@ -1093,20 +1104,6 @@
       "author": "Keith Collantine",
       "tags": [
         "RaceFans Round-up"
-      ]
-    },
-    {
-      "source": "RaceFans",
-      "title": "“I hope this lap was broadcasted”: Alonso lost five places in one lap at the restart | Formula 1",
-      "url": "https://www.racefans.net/2026/03/15/i-hope-this-lap-was-broadcasted-alonso-lost-five-places-in-one-lap-at-the-restart/",
-      "published_at": "2026-03-15T17:01:54+00:00",
-      "summary": "Fernando Alonso called attention to his struggles in the Aston Martin as he lost five places in a single lap during the Chinese Grand Prix.",
-      "author": "Keith Collantine",
-      "tags": [
-        "2026 F1 season",
-        "Formula 1",
-        "2026 Chinese Grand Prix",
-        "Fernando Alonso"
       ]
     },
     {
