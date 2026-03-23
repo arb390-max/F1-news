@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-23T15:41:48.355471+00:00",
+  "last_updated": "2026-03-23T18:34:28.149119+00:00",
   "total_articles": 105,
   "sources": [
     "Formula1.com",
@@ -12,6 +12,74 @@
     "Crash.net F1"
   ],
   "articles": [
+    {
+      "source": "Motorsport.com",
+      "title": "How Toto Wolff became the billionaire Mercedes F1 team boss",
+      "url": "https://www.motorsport.com/f1/news/how-toto-wolff-became-a-billionaire-mercedes-f1-team-boss/10807562/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "published_at": "2026-03-23T17:26:47+00:00",
+      "summary": "Torger Christian “Toto” Wolff – born to a Polish mother and a Romanian father – caught the motorsport bug when he was a teenager. He competed in Austrian and German Formula Ford, funding his racing career by working as a driving instructor at – ironically – the Red Bull Ring.Wolff quickly realised he lacked the talent to make it as a driver and turned his focus to studying ...Keep reading",
+      "author": "",
+      "tags": [
+        "Suzuka",
+        "Formula 1"
+      ]
+    },
+    {
+      "source": "Crash.net F1",
+      "title": "F1 Japanese Grand Prix at Suzuka: Start times and how to watch",
+      "url": "https://www.crash.net/f1/news/1091903/1/f1-japanese-grand-prix-suzuka-start-times-and-how-watch",
+      "published_at": "2026-03-23T16:58:26+00:00",
+      "summary": "All the information on how to watch the 2026 F1 Japanese Grand Prix at Suzuka, including timings and schedule.",
+      "author": "",
+      "tags": [
+        "F1"
+      ]
+    },
+    {
+      "source": "The Race",
+      "title": "The problems for Cadillac now F1 reality is biting",
+      "url": "https://www.the-race.com/formula-1/cadillac-f1-2026-reality-biting-problems/",
+      "published_at": "2026-03-23T16:53:39+00:00",
+      "summary": "Cadillac's F1 start can only be deemed a success, but it faces a massive uphill task to take the next step, as Edd Straw explains",
+      "author": "Edd Straw",
+      "tags": [
+        "Formula 1"
+      ]
+    },
+    {
+      "source": "The Race",
+      "title": "Five things we learned from an important Jarama Formula E test",
+      "url": "https://www.the-race.com/formula-e/five-things-we-learned-formula-e-rookie-test-jarama/",
+      "published_at": "2026-03-23T16:35:08+00:00",
+      "summary": "Formula E's Jarama rookie test was no box-ticking exercise - not least because it featured a number of drivers being evaluated for race seats",
+      "author": "Sam Smith",
+      "tags": [
+        "Formula E"
+      ]
+    },
+    {
+      "source": "Crash.net F1",
+      "title": "Aston Martin to replace Fernando Alonso for FP1 at F1 Japanese Grand Prix",
+      "url": "https://www.crash.net/f1/news/1091898/1/aston-martin-replace-fernando-alonso-fp1-f1-japanese-grand-prix",
+      "published_at": "2026-03-23T15:48:18+00:00",
+      "summary": "Fernando Alonso will sit out of first practice at the Japanese Grand Prix for Aston Martin.",
+      "author": "",
+      "tags": [
+        "F1"
+      ]
+    },
+    {
+      "source": "Motorsport.com",
+      "title": "Fernando Alonso to skip F1 Japanese GP FP1",
+      "url": "https://www.motorsport.com/f1/news/fernando-alonso-to-skip-f1-japanese-gp-fp1/10807582/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "published_at": "2026-03-23T15:38:44+00:00",
+      "summary": "Fernando Alonso will sit out Free Practice 1 at Formula 1’s Japanese Grand Prix, ceding his Aston Martin AMR26 to third driver Jak Crawford.According to F1’s sporting regulations, every team must enter a rookie driver (two grand prix starts at most) on four occasions this season – two for each car. This normally occurs in FP1 sessions.Other than Racing Bulls with newcomer Arvid ...Keep reading",
+      "author": "",
+      "tags": [
+        "Suzuka",
+        "Formula 1"
+      ]
+    },
     {
       "source": "Crash.net F1",
       "title": "Audi’s personnel problem: What next after shock F1 team boss exit?",
@@ -507,28 +575,6 @@
       ]
     },
     {
-      "source": "The Race",
-      "title": "Jaguar 1-2 and team order fury in Spain Formula E race",
-      "url": "https://www.the-race.com/formula-e/jaguar-1-2-and-team-order-fury-in-spain-formula-e-race/",
-      "published_at": "2026-03-21T15:05:33+00:00",
-      "summary": "Antonio Felix da Costa won a second Formula E race in a row, leading a Jaguar 1-2 ahead of 16th-place starting Mitch Evans in a breathless Jarama circuit race in Spain",
-      "author": "Jack Benyon",
-      "tags": [
-        "Formula E"
-      ]
-    },
-    {
-      "source": "The Race",
-      "title": "Di Giannantonio grabs surprise Brazil MotoGP pole in mad qualifying",
-      "url": "https://www.the-race.com/motogp/brazil-motogp-qualifying-crashes-fabio-di-giannantonio/",
-      "published_at": "2026-03-21T14:38:24+00:00",
-      "summary": "VR46 Ducati rider Fabio Di Giannantonio took pole position for the Brazilian Grand Prix at Goiania, in a crash-filled MotoGP qualifying",
-      "author": "Valentin Khorounzhiy",
-      "tags": [
-        "MotoGP"
-      ]
-    },
-    {
       "source": "Motorsport.com",
       "title": "Kimi Antonelli would “love” to do a GT race with Max Verstappen",
       "url": "https://www.motorsport.com/f1/news/kimi-antonelli-would-love-to-do-a-gt-race-with-max-verstappen/10806939/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -633,30 +679,6 @@
       "url": "https://www.motorsport.com/f1/news/sebastian-vettel-and-tom-clarkson-to-run-london-marathon-for-two-f1-related-charities/10806886/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
       "published_at": "2026-03-20T23:21:40+00:00",
       "summary": "Four-time Formula 1 champion Sebastian Vettel will join F1 journalist Tom Clarkson to run the London Marathon to raise money for the Grand Prix Trust and the Brain & Spine Foundation.Vettel, who retired from F1 at the end of the 2022 season, will join Clarkson along with the journalist's son and daughter. The Brain & Spine Foundation was founded by former F1 safety and medical delegate ...Keep reading",
-      "author": "",
-      "tags": [
-        "F1 Chinese Grand Prix",
-        "Formula 1"
-      ]
-    },
-    {
-      "source": "Motorsport.com",
-      "title": "Jonathan Wheatley's Audi exit sparks strong reaction from Formula 1 fans",
-      "url": "https://www.motorsport.com/f1/news/jonathan-wheatleys-audi-exit-sparks-strong-reaction-from-formula-1-fans/10806877/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "published_at": "2026-03-20T22:19:01+00:00",
-      "summary": "Formula 1 fans have shared their verdict on Jonathan Wheatley's shock exit from his role as Audi team principal.Audi confirmed on 20 March that Wheatley would leave his role with immediate effect due to \"personal reasons\" after joining the team in 2025.\"As it continues its journey towards the front of the grid, Audi Revolut F1 Team will implement significant changes to its senior ...Keep reading",
-      "author": "",
-      "tags": [
-        "F1 Chinese Grand Prix",
-        "Formula 1"
-      ]
-    },
-    {
-      "source": "Motorsport.com",
-      "title": "Guenther Steiner rules out Kimi Antonelli in 2026 F1 title fight despite China win",
-      "url": "https://www.motorsport.com/f1/news/guenther-steiner-rules-out-kimi-antonelli-in-2026-f1-title-fight-despite-china-win/10806758/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "published_at": "2026-03-20T19:24:39+00:00",
-      "summary": "Guenther Steiner has shot down claims that Kimi Antonelli could fight for the Formula 1 drivers' championship in 2026.After two rounds of the 2026 season, the Italian driver sits second in the standings behind his Mercedes team-mate George Russell. Antonelli secured his maiden F1 victory at the Chinese Grand Prix, leading many to argue that the 19-year-old could fight for the championship this ...Keep reading",
       "author": "",
       "tags": [
         "F1 Chinese Grand Prix",
@@ -841,17 +863,6 @@
       ]
     },
     {
-      "source": "Crash.net F1",
-      "title": "Is McLaren's season already doomed after worst F1 title defence start in over a decade?",
-      "url": "https://www.crash.net/f1/feature/1091596/1/mclarens-season-already-doomed-after-worst-f1-title-defence-start-over-decade",
-      "published_at": "2026-03-19T16:14:42+00:00",
-      "summary": "McLaren has endured one of the worst starts to a season for a reigning champion team in over a decade. But put its troubles into context, as well as its past ability to rebound from tough starts, and its 2026 F1 title hopes look far from doomed…",
-      "author": "",
-      "tags": [
-        "F1"
-      ]
-    },
-    {
       "source": "Autosport",
       "title": "Newey to step down as Aston Martin F1 team principal, Wheatley set to join from Audi",
       "url": "https://www.autosport.com/f1/news/adrian-newey-to-step-down-as-aston-martin-f1-team-principal/10806485/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
@@ -911,17 +922,6 @@
         "Stats and facts",
         "Ferrari",
         "Lewis Hamilton"
-      ]
-    },
-    {
-      "source": "Crash.net F1",
-      "title": "'More studying than any other era': Lewis Hamilton reveals how complex new F1 rules are",
-      "url": "https://www.crash.net/f1/news/1091584/1/more-studying-any-other-era-lewis-hamilton-reveals-how-complex-new-f1-rules-are",
-      "published_at": "2026-03-19T09:35:24+00:00",
-      "summary": "Lewis Hamilton has detailed the learning process required to get on top of new F1 rules.",
-      "author": "",
-      "tags": [
-        "F1"
       ]
     },
     {
