@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-23T05:50:10.833709+00:00",
+  "last_updated": "2026-03-23T09:16:12.539124+00:00",
   "total_articles": 105,
   "sources": [
     "Formula1.com",
@@ -13,8 +13,30 @@
   ],
   "articles": [
     {
+      "source": "Crash.net F1",
+      "title": "Why F1’s unexpected April break will be crucial for overweight Williams",
+      "url": "https://www.crash.net/f1/news/1091886/1/why-f1s-unexpected-april-break-will-be-crucial-overweight-williams",
+      "published_at": "2026-03-23T09:08:08+00:00",
+      "summary": "Williams have several weaknesses to address - and F1's April break will provide a chance to do just that.",
+      "author": "",
+      "tags": [
+        "F1"
+      ]
+    },
+    {
+      "source": "The Race",
+      "title": "Honda needs 'magic' to avoid a painful next Aston Martin failure",
+      "url": "https://www.the-race.com/formula-1/honda-needs-magic-to-avoid-a-painful-next-aston-martin-failure/",
+      "published_at": "2026-03-23T08:44:13+00:00",
+      "summary": "Two grands prix, and no finish for either Aston Martin. Next up? The Japanese GP, where Honda faces the prospect of a brutal home F1 race",
+      "author": "Scott Mitchell-Malm",
+      "tags": [
+        "Formula 1"
+      ]
+    },
+    {
       "source": "RaceFans",
-      "title": "Round-up: Mercedes explains error behind Verstappen’s Nurburgring disqualification, and more | RaceFans round-up",
+      "title": "Round-up: Mercedes explains error behind Verstappen’s Nurburgring disqualification | RaceFans round-up",
       "url": "https://www.racefans.net/2026/03/23/round-up-23rd-march-2026/",
       "published_at": "2026-03-23T00:01:00+00:00",
       "summary": "Monday's edition of the RaceFans round-up.",
@@ -464,18 +486,6 @@
       ]
     },
     {
-      "source": "The Race",
-      "title": "Watch Max Verstappen racing at the Nurburgring LIVE",
-      "url": "https://www.the-race.com/endurance/watch-max-verstappen-racing-at-the-nurburgring-live/",
-      "published_at": "2026-03-21T08:10:30+00:00",
-      "summary": "Watch Max Verstappen in GT action on the Nurburgring Nordschleife in NLS2 - live!",
-      "author": "The Race Team",
-      "tags": [
-        "Endurance",
-        "Formula 1"
-      ]
-    },
-    {
       "source": "RaceFans",
       "title": "Round-up: Antonelli debut at Ferrari would’ve ‘destroyed’ him says ex-boss, and more | RaceFans round-up",
       "url": "https://www.racefans.net/2026/03/21/round-up-21st-march-2026/",
@@ -861,17 +871,6 @@
       "url": "https://www.crash.net/f1/news/1091586/1/toto-wolff-expects-political-knives-come-mercedes-f1-2026",
       "published_at": "2026-03-19T10:29:30+00:00",
       "summary": "Mercedes is braced for \"political knives\" coming its way from F1 rivals.",
-      "author": "",
-      "tags": [
-        "F1"
-      ]
-    },
-    {
-      "source": "Crash.net F1",
-      "title": "Last year's worst F1 team “in a different league” after best start since 2023",
-      "url": "https://www.crash.net/f1/news/1091585/1/last-years-worst-f1-team-different-league-after-best-start-2023",
-      "published_at": "2026-03-19T09:50:59+00:00",
-      "summary": "Alpine has done something it hasn't since the 2023 season after two rounds of F1 2026",
       "author": "",
       "tags": [
         "F1"
