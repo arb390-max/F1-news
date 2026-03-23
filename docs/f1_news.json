@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-23T09:16:12.539124+00:00",
+  "last_updated": "2026-03-23T11:58:19.058905+00:00",
   "total_articles": 105,
   "sources": [
     "Formula1.com",
@@ -12,6 +12,78 @@
     "Crash.net F1"
   ],
   "articles": [
+    {
+      "source": "Motorsport.com",
+      "title": "Mario Andretti shares encouraging Cadillac F1 progress update ahead of Japanese GP",
+      "url": "https://www.motorsport.com/f1/news/mario-andretti-shares-encouraging-cadillac-f1-progress-update-ahead-japanese-gp/10807274/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "published_at": "2026-03-23T11:31:39+00:00",
+      "summary": "Mario Andretti has reflected on the start of the season for the new Cadillac Formula 1 team, sharing encouraging news ahead of the Japanese Grand Prix.The American outfit, which joined the grid as the 11th team in 2026 after a long approval process, has been realistic with its approach to the start of the season.\"There had been a lot of anxiety, no question,\" Andretti told the Drive to ...Keep reading",
+      "author": "",
+      "tags": [
+        "F1 Chinese Grand Prix",
+        "Formula 1"
+      ]
+    },
+    {
+      "source": "Crash.net F1",
+      "title": "How the F1 2026 midfield battle is shaping up after two rounds",
+      "url": "https://www.crash.net/f1/feature/1091888/1/how-f1-2026-midfield-battle-shaping-after-two-rounds",
+      "published_at": "2026-03-23T10:52:56+00:00",
+      "summary": "What is the early state of play in the F1 2026 midfield battle?",
+      "author": "",
+      "tags": [
+        "F1"
+      ]
+    },
+    {
+      "source": "Motorsport.com",
+      "title": "\"We know it’s not right” – why Carlos Sainz still doesn’t like F1’s new era",
+      "url": "https://www.motorsport.com/f1/news/we-know-its-not-right-why-carlos-sainz-still-doesnt-like-f1s-new-era/10807043/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "published_at": "2026-03-23T10:48:17+00:00",
+      "summary": "Criticism of Formula 1’s new regulations has been growing among some factions of the paddock, and Williams’ Carlos Sainz is the latest to voice his concerns over the series’ new era.For 2026, F1 rolled out new regulations that call for smaller, more agile cars and mandate for power units that rely on a near-50:50 split in electrical and internal combustion power. As a result, drivers ...Keep reading",
+      "author": "",
+      "tags": [
+        "F1 Chinese Grand Prix",
+        "Formula 1"
+      ]
+    },
+    {
+      "source": "RaceFans",
+      "title": "How to watch the 2026 Japanese Grand Prix live this weekend | TV Times",
+      "url": "https://www.racefans.net/2026/03/23/how-to-watch-the-2026-japanese-grand-prix-live-this-weekend/",
+      "published_at": "2026-03-23T10:21:06+00:00",
+      "summary": "It's race week! Formula 1 is heading to Suzuka for its last grand prix before a five-week break. Here's how to watch the Japanese Grand Prix.",
+      "author": "Keith Collantine",
+      "tags": [
+        "2026 F1 season",
+        "TV Times",
+        "2026 Japanese Grand Prix"
+      ]
+    },
+    {
+      "source": "Autosport",
+      "title": "How Antonelli plans to attack F1 season with title challenge in sight",
+      "url": "https://www.autosport.com/f1/news/how-antonelli-plans-to-attack-f1-season-with-title-challenge-in-sight/10807483/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "published_at": "2026-03-23T10:19:47+00:00",
+      "summary": "Formula 1's latest winner was greeted with a standing ovation: nobody knew Kimi Antonelli would be there, but he wanted to be there before rushing to Bologna airport to depart for Japan.Over 300 fans gathered in the Checco Costa room at Imola for an event organised by the Tifoseria Ayrton Senna Italia, giving the Mercedes driver a long standing ovation.Antonelli is always there to honour ...Keep reading",
+      "author": "",
+      "tags": [
+        "Suzuka",
+        "Formula 1"
+      ]
+    },
+    {
+      "source": "Motorsport.com",
+      "title": "Guenther Steiner makes bold Lewis Hamilton and Charles Leclerc prediction for 2026 F1 season",
+      "url": "https://www.motorsport.com/f1/news/guenther-steiner-makes-bold-lewis-hamilton-and-charles-leclerc-prediction-for-2026-f1-season/10807271/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "published_at": "2026-03-23T09:44:04+00:00",
+      "summary": "Guenther Steiner has backed Charles Leclerc to beat Lewis Hamilton in the 2026 Formula 1 season.While the seven-time champion entered the 2026 season rejuvenated after a personal 'reset' and claimed his first Ferrari podium at the Chinese Grand Prix, the former Haas team principal believes that Leclerc will be hungrier for the championship.During an episode of The Red Flags Podcast ...Keep reading",
+      "author": "",
+      "tags": [
+        "F1 Chinese Grand Prix",
+        "Formula 1"
+      ]
+    },
     {
       "source": "Crash.net F1",
       "title": "Why F1’s unexpected April break will be crucial for overweight Williams",
@@ -569,18 +641,6 @@
       ]
     },
     {
-      "source": "Motorsport.com",
-      "title": "Mercedes names Bradley Lord as deputy F1 team principal",
-      "url": "https://www.motorsport.com/f1/news/mercedes-names-bradley-lord-as-deputy-team-principal/10806756/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "published_at": "2026-03-20T15:45:16+00:00",
-      "summary": "Mercedes has appointed Bradley Lord as its deputy team principal to support Toto Wolff in the management of the Formula 1 team.Lord joined the Mercedes F1 team in 2013 as communications manager and most recently worked as team representative and chief communications officer for the Brackley squad.During his 13-year stint with the team, Lord's responsibilities have increased, according to ...Keep reading",
-      "author": "",
-      "tags": [
-        "F1 Chinese Grand Prix",
-        "Formula 1"
-      ]
-    },
-    {
       "source": "Crash.net F1",
       "title": "Aston Martin \"set the record straight\" after Newey \"speculation\" and Wheatley Audi exit",
       "url": "https://www.crash.net/f1/news/1091636/1/aston-martin-set-record-straight-after-newey-speculation-and-wheatley-audi-exit",
@@ -603,18 +663,6 @@
         "Formula 1",
         "Aston Martin",
         "Audi"
-      ]
-    },
-    {
-      "source": "Motorsport.com",
-      "title": "Jonathan Wheatley officially leaves Audi, before replacing Adrian Newey at Aston Martin",
-      "url": "https://www.motorsport.com/f1/news/wheatley-officially-leaves-audi-replacing-newey-aston-martin/10806699/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "published_at": "2026-03-20T14:53:21+00:00",
-      "summary": "Jonathan Wheatley is leaving the Audi Formula 1 team with immediate effect, ahead of his impending move to Aston Martin.Motorsport revealed on Thursday that Adrian Newey was set to step down from his team principal duties, which he assumed under three months ago, to focus on technical matters – and would be replaced by Audi team boss Wheatley.The decision was made amid Aston Martin’s ...Keep reading",
-      "author": "",
-      "tags": [
-        "F1 Chinese Grand Prix",
-        "Formula 1"
       ]
     },
     {
@@ -660,18 +708,6 @@
       "author": "",
       "tags": [
         "Melbourne Grand Prix Circuit",
-        "Formula 1"
-      ]
-    },
-    {
-      "source": "Motorsport.com",
-      "title": "How Fernando Alonso’s terrifying 2016 Australian GP crash broke down barriers",
-      "url": "https://www.motorsport.com/f1/news/the-day-alonsos-terrifying-crash-broke-the-deadlock/10806683/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "published_at": "2026-03-20T13:02:55+00:00",
-      "summary": "March 20, 2016 remains one of those days when Formula 1 frightened us, but also demonstrated its continuous progress in safety and its determination to always go further. It was 10 years ago, during the Australian Grand Prix, and a shocking crash sustained by Fernando Alonso is still vivid in some memories.On lap 17 of the race, while battling for 19th place at the wheel of an underperforming ...Keep reading",
-      "author": "",
-      "tags": [
-        "F1 Australian Grand Prix",
         "Formula 1"
       ]
     },
@@ -860,17 +896,6 @@
       "url": "https://www.crash.net/f1/news/1091588/1/max-verstappen-accused-throwing-his-toys-out-pram-f1-2026-rules-outburst",
       "published_at": "2026-03-19T11:27:42+00:00",
       "summary": "Max Verstappen has been blasted by a former F1 team boss for heavily criticising the new 2026 rules.",
-      "author": "",
-      "tags": [
-        "F1"
-      ]
-    },
-    {
-      "source": "Crash.net F1",
-      "title": "Toto Wolff expects “political knives” to come for Mercedes in F1 2026",
-      "url": "https://www.crash.net/f1/news/1091586/1/toto-wolff-expects-political-knives-come-mercedes-f1-2026",
-      "published_at": "2026-03-19T10:29:30+00:00",
-      "summary": "Mercedes is braced for \"political knives\" coming its way from F1 rivals.",
       "author": "",
       "tags": [
         "F1"
@@ -1095,17 +1120,6 @@
       ]
     },
     {
-      "source": "RaceFans",
-      "title": "Round-up: Verstappen denies F1 criticism is due to Red Bull’s struggles, and more | Formula 1",
-      "url": "https://www.racefans.net/2026/03/16/round-up-16th-march-2026/",
-      "published_at": "2026-03-16T00:01:00+00:00",
-      "summary": "Also in Monday's edition of the RaceFans round-up, Audi confirms a wheel gun problem caused Nico Hulkenberg's 16-second pit stop.",
-      "author": "Keith Collantine",
-      "tags": [
-        "RaceFans Round-up"
-      ]
-    },
-    {
       "source": "Autosport",
       "title": "Andretti Global nears decision on fourth Indianapolis 500 entry",
       "url": "https://www.autosport.com/indycar/news/andretti-global-nears-decision-on-fourth-indianapolis-500-entry/10805652/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
@@ -1132,16 +1146,13 @@
       ]
     },
     {
-      "source": "Autosport",
-      "title": "Verstappen “in a horror show” – Wolff responds to 2026 F1 criticism",
-      "url": "https://www.autosport.com/f1/news/max-verstappen-in-a-horror-show-toto-wolff-responds-to-2026-f1-criticism/10805540/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "published_at": "2026-03-15T12:12:02+00:00",
-      "summary": "After the Chinese Grand Prix, Max Verstappen once again voiced his strong dissatisfaction with the new Formula 1 regulations. The Dutchman said that fans who enjoy this type of on-track action “don't understand racing” and that the new ruleset is fundamentally flawed.“It’s not fun at all. It’s playing Mario Kart. This is not racing,” he claimed after the race.Read ...Keep reading",
-      "author": "",
-      "tags": [
-        "Shanghai International Circuit",
-        "Formula 1"
-      ]
+      "source": "Formula1.com",
+      "title": "5 storylines we're excited about ahead of the Japanese GP",
+      "url": "https://www.formula1.com/en/latest/article/its-race-week-5-storylines-were-excited-about-ahead-of-the-2026-japanese.5U00nT4UfMClbL7MzbfUWc",
+      "published_at": "",
+      "summary": "Chris Medland breaks down the key talking points as F1 heads to Japan for the third round of the 2026 season.",
+      "author": "Formula 1",
+      "tags": []
     },
     {
       "source": "Formula1.com",
@@ -1221,15 +1232,6 @@
       "url": "https://www.formula1.com/en/latest/article/analysis-why-has-wheatley-left-audi-so-soon-and-is-he-going-to-aston-martin.1eDCm9DkiGHnqhnMt0Ur3J",
       "published_at": "",
       "summary": "F1.com's Lawrence Barretto digs into the circumstances behind Jonathan Wheatley's departure as Audi Team Principal, and if Aston Martin are his next destination.",
-      "author": "Formula 1",
-      "tags": []
-    },
-    {
-      "source": "Formula1.com",
-      "title": "Audi announce team boss Wheatley to leave with immediate effect",
-      "url": "https://www.formula1.com/en/latest/article/audi-announce-team-boss-wheatley-to-leave-with-immediate-effect.1WqcMA6UUNOuruqoQcPb3Q",
-      "published_at": "",
-      "summary": "Audi have announced that Team Principal Jonathan Wheatley is leaving the organisation with immediate effect, just under a year after his arrival.",
       "author": "Formula 1",
       "tags": []
     }
