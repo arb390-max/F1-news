@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-24T15:47:26.699953+00:00",
+  "last_updated": "2026-03-24T19:37:46.563967+00:00",
   "total_articles": 105,
   "sources": [
     "Formula1.com",
@@ -12,6 +12,18 @@
     "Crash.net F1"
   ],
   "articles": [
+    {
+      "source": "Motorsport.com",
+      "title": "Audi F1 engine earns praise from competition: It's \"very, very good\"",
+      "url": "https://www.motorsport.com/f1/news/audi-f1-engine-earns-praise-from-competition-its-very-very-good/10807697/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "published_at": "2026-03-24T16:00:02+00:00",
+      "summary": "Ayao Komatsu has rebuffed suggestions that being a Ferrari customer should give Haas an advantage in the 2026 Formula 1 midfield battle - claiming Audi is “very good”.The American outfit enjoyed a strong start to the new regulations as it is currently fourth in the standings after two rounds, with Oliver Bearman scoring seventh and fifth in Melbourne and Shanghai respectively. Haas ...Keep reading",
+      "author": "",
+      "tags": [
+        "Suzuka",
+        "Formula 1"
+      ]
+    },
     {
       "source": "Autosport",
       "title": "Autosport Explains video: F1 aero in 2026",
@@ -651,18 +663,6 @@
       ]
     },
     {
-      "source": "Motorsport.com",
-      "title": "Mario Andretti shares early verdict on Valtteri Bottas and Sergio Perez at Cadillac: \"A bit rusty\"",
-      "url": "https://www.motorsport.com/f1/news/mario-andretti-shares-early-verdict-on-valtteri-bottas-and-sergio-perez-at-cadillac-a-bit-rusty/10807243/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "published_at": "2026-03-22T11:07:13+00:00",
-      "summary": "1978 Formula 1 champion Mario Andretti, who is on the board of directors of the Cadillac F1 team, has admitted that Valtteri Bottas and Sergio Perez are a \"bit rusty\" after taking a year out of the series.The American outfit joined the grid in 2026 as the 11th team with the experienced driver line-up of the former Red Bull and Mercedes drivers. Both Bottas and Perez lost their full-time seats ...Keep reading",
-      "author": "",
-      "tags": [
-        "F1 Chinese Grand Prix",
-        "Formula 1"
-      ]
-    },
-    {
       "source": "Autosport",
       "title": "How F1 became a multi-billion dollar industry",
       "url": "https://www.autosport.com/f1/news/how-f1-became-a-multi-billion-dollar-industry/10807108/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
@@ -1137,6 +1137,15 @@
     },
     {
       "source": "Formula1.com",
+      "title": "Tsunoda on his F1 past, present and future",
+      "url": "https://www.formula1.com/en/latest/article/exclusive-im-hungry-to-get-back-tsunoda-on-his-f1-past-present-and-future.2fFyrtNr48YvaXqe7zDKpH",
+      "published_at": "",
+      "summary": "Yuki Tsunoda has been getting used to a different F1 role in 2026 – the Japanese driver taking on reserve duties for Red Bull and sister outfit Racing Bulls after losing his full-time race seat at the end of the 2025 season.",
+      "author": "Formula 1",
+      "tags": []
+    },
+    {
+      "source": "Formula1.com",
       "title": "Mercedes show off wolf-inspired livery change for Japan",
       "url": "https://www.formula1.com/en/latest/article/gallery-mercedes-show-off-wolf-inspired-livery-change-for-japanese-grand.1Job5FymRL9TkS0TUVm9MH",
       "published_at": "",
@@ -1213,15 +1222,6 @@
       "url": "https://www.formula1.com/en/latest/article/how-albon-is-writing-the-latest-chapter-in-southeast-asias-f1-story.2rR5O22JOxDK9tRq5SgGDF",
       "published_at": "",
       "summary": "To celebrate Alex Albon’s 30th birthday, we’re looking into the Thai driver’s role in taking Southeast Asia’s racing heritage to the next level.",
-      "author": "Formula 1",
-      "tags": []
-    },
-    {
-      "source": "Formula1.com",
-      "title": "What time is the 2026 Japanese GP and how can I watch it?",
-      "url": "https://www.formula1.com/en/latest/article/what-time-is-the-formula-1-2026-japanese-grand-prix-and-how-can-i-watch-it.3nCyIIf5J9R6Jenm84DGnY",
-      "published_at": "",
-      "summary": "Here are all the timings – along with all the additional information you need – for the third Grand Prix weekend of the 2026 season from the Suzuka Circuit in Japan.",
       "author": "Formula 1",
       "tags": []
     }
