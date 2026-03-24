@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-24T11:35:07.505012+00:00",
+  "last_updated": "2026-03-24T15:47:26.699953+00:00",
   "total_articles": 105,
   "sources": [
     "Formula1.com",
@@ -12,6 +12,120 @@
     "Crash.net F1"
   ],
   "articles": [
+    {
+      "source": "Autosport",
+      "title": "Autosport Explains video: F1 aero in 2026",
+      "url": "https://www.autosport.com/f1/news/autosport-explains-video-f1-aero-in-2026/10807783/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "published_at": "2026-03-24T15:24:47+00:00",
+      "summary": "In this exclusive technical breakdown, Autosport’s Jake Boxall-Legge visits the Williams Formula 1 base to uncover the radical aerodynamic shifts defining the 2026 season with Williams chief aerodynamicist Juan Molina.As F1 moves away from the ground-effect Venturi tunnels of the previous era, the championship introduces a shorter, narrower car profile and a return to flat floors.We also ...Keep reading",
+      "author": "",
+      "tags": [
+        "Suzuka",
+        "Formula 1"
+      ]
+    },
+    {
+      "source": "Crash.net F1",
+      "title": "Where McLaren stands after Chinese GP non-start investigation with Mercedes",
+      "url": "https://www.crash.net/f1/news/1091916/1/where-mclaren-stands-after-chinese-gp-non-start-investigation-mercedes",
+      "published_at": "2026-03-24T15:10:29+00:00",
+      "summary": "McLaren provides update after joint investigation with Mercedes on its double non-start in China.",
+      "author": "",
+      "tags": [
+        "F1"
+      ]
+    },
+    {
+      "source": "Motorsport.com",
+      "title": "Ferrari pushes energy recovery to the limit: How its strategy will change at Suzuka",
+      "url": "https://www.motorsport.com/f1/news/f1-ferrari-takes-energy-recovery-to-the-extreme-strategies-are-changing-at-suzuka/10807714/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "published_at": "2026-03-24T14:32:20+00:00",
+      "summary": "Ferrari is looking for confirmation in Japan. The Scuderia, considered the only real alternative to Mercedes in the fight at the front, has prepared for the third race of the Formula 1 season with significant work carried out back at the factory after analysing the data collected from the first two grands prix.The Suzuka circuit represents a third type of track and is expected to be a ...Keep reading",
+      "author": "",
+      "tags": [
+        "Suzuka",
+        "Formula 1"
+      ]
+    },
+    {
+      "source": "Autosport",
+      "title": "How Ferrari is trying to close the gap to Mercedes in Japan",
+      "url": "https://www.autosport.com/f1/news/how-ferrari-is-trying-to-close-the-gap-to-mercedes-in-japan/10807759/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "published_at": "2026-03-24T14:30:16+00:00",
+      "summary": "Ferrari, considered the only real alternative to Mercedes in the fight at the front, has prepared for the third race of the Formula 1 season in Japan with significant work carried out back at the factory after analysing the data collected from the first two grands prix.The Suzuka circuit represents a third different type of track of the season and is expected to be a challenging venue for ...Keep reading",
+      "author": "",
+      "tags": [
+        "Suzuka",
+        "Formula 1"
+      ]
+    },
+    {
+      "source": "Crash.net F1",
+      "title": "Mercedes becomes third F1 team to drop special Japanese GP livery",
+      "url": "https://www.crash.net/f1/news/1091914/1/mercedes-becomes-third-f1-team-drop-special-japanese-gp-livery",
+      "published_at": "2026-03-24T13:57:59+00:00",
+      "summary": "Mercedes is the latest team to reveal a one-off livery for F1's Japanese Grand Prix.",
+      "author": "",
+      "tags": [
+        "F1"
+      ]
+    },
+    {
+      "source": "The Race",
+      "title": "The Leclerc lap that's exposed how F1 2026 has ruined qualifying",
+      "url": "https://www.the-race.com/formula-1/charles-leclerc-lap-f1-2026-qualifying-ruined-cars-confused/",
+      "published_at": "2026-03-24T13:32:21+00:00",
+      "summary": "F1 2026's cars are 'confusing' themselves, as this striking Charles Leclerc case study shows",
+      "author": "Jon Noble",
+      "tags": [
+        "Formula 1"
+      ]
+    },
+    {
+      "source": "Crash.net F1",
+      "title": "Adrian Newey \"not doing well\" amid Aston Martin F1 woes Helmut Marko reveals",
+      "url": "https://www.crash.net/f1/news/1091912/1/adrian-newey-not-doing-well-amid-aston-martin-f1-woes-helmut-marko-reveals",
+      "published_at": "2026-03-24T12:35:14+00:00",
+      "summary": "Helmut Marko drops verdict on Adrian Newey and Aston Martin's struggles.",
+      "author": "",
+      "tags": [
+        "F1"
+      ]
+    },
+    {
+      "source": "The Race",
+      "title": "Bagnaia's 2026 so far looks no different to his woeful 2025",
+      "url": "https://www.the-race.com/motogp/pecco-bagnaia-motogp-2026-so-far-no-different-2025-woes/",
+      "published_at": "2026-03-24T12:09:47+00:00",
+      "summary": "Two-time MotoGP champion Pecco Bagnaia faces another campaign that is spiralling, with the Brazilian GP underlining a poor start to 2026",
+      "author": "Valentin Khorounzhiy",
+      "tags": [
+        "MotoGP"
+      ]
+    },
+    {
+      "source": "Motorsport.com",
+      "title": "Pirelli's plan to combat continuous one-stop races in F1 2026",
+      "url": "https://www.motorsport.com/f1/news/pirellis-plan-to-combat-continuous-one-stop-races-in-f1-2026/10807616/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "published_at": "2026-03-24T11:59:18+00:00",
+      "summary": "Pitstop strategy is often a decisive factor during Formula 1 grands prix with Hungary in 2019 being a classic example of that. Max Verstappen attempted to make the one-stopper work, but eventually fell short to the two-stopping Lewis Hamilton, who completed a late charge on fresher tyres for victory.Obviously the debate of a one-stop versus two-stop contest has been ongoing throughout the ...Keep reading",
+      "author": "",
+      "tags": [
+        "Suzuka",
+        "Formula 1"
+      ]
+    },
+    {
+      "source": "Crash.net F1",
+      "title": "Explained: Why F1 break could hurt Red Bull more than its rivals",
+      "url": "https://www.crash.net/f1/news/1091910/1/explained-why-f1-break-could-hurt-red-bull-more-its-rivals",
+      "published_at": "2026-03-24T11:43:11+00:00",
+      "summary": "Red Bull fears the looming five-week F1 break could put it at a \"disadvantage\".",
+      "author": "",
+      "tags": [
+        "F1"
+      ]
+    },
     {
       "source": "Autosport",
       "title": "Pirelli's plan to combat continuous one-stop races in F1 2026",
@@ -97,10 +211,10 @@
     },
     {
       "source": "RaceFans",
-      "title": "Haas reveals special ‘Godzilla’ livery for Japanese Grand Prix | Formula 1",
-      "url": "https://www.racefans.net/2026/03/24/haas-reveals-special-godzilla-livery-for-japanese-grand-prix/",
+      "title": "Japanese GP liveries: Haas gets Godzilla, Mercedes adds the other kind of wolf | Formula 1",
+      "url": "https://www.racefans.net/2026/03/24/japanese-gp-liveries-haas-gets-godzilla-mercedes-adds-the-other-kind-of-wolf/",
       "published_at": "2026-03-24T07:28:33+00:00",
-      "summary": "Godzilla will appear on Haas's Formula 1 cars at this weekend's Japanese Grand Prix.",
+      "summary": "Godzilla will appear on Haas's Formula 1 cars at this weekend's Japanese Grand Prix, while Mercedes have added a wolf to theirs.",
       "author": "Keith Collantine",
       "tags": [
         "2026 F1 season",
@@ -549,29 +663,6 @@
       ]
     },
     {
-      "source": "Motorsport.com",
-      "title": "Why Haas is the early surprise of F1 2026",
-      "url": "https://www.motorsport.com/f1/news/why-haas-is-the-early-surprise-of-f1-2026/10807250/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "published_at": "2026-03-22T10:51:32+00:00",
-      "summary": "The talk through pre-season testing for the 2026 Formula 1 campaign was that last year's top four teams - McLaren, Mercedes, Red Bull and Ferrari - have pulled further away from the midfield.Although that might be true in the long term for these new regulations, a look at the standings after the opening two rounds shows a welcome surprise sitting in fourth: Haas. The American outfit was ...Keep reading",
-      "author": "",
-      "tags": [
-        "Formula 1"
-      ]
-    },
-    {
-      "source": "Motorsport.com",
-      "title": "Racing Bulls show off stunning special Japanese GP livery at Red Bull Tokyo Drift event",
-      "url": "https://www.motorsport.com/f1/news/racing-bulls-show-off-stunning-special-japanese-gp-livery-at-red-bull-tokyo-drift-event/10807237/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "published_at": "2026-03-22T10:50:02+00:00",
-      "summary": "Racing Bulls has unveiled a striking special livery for the upcoming Japanese Grand Prix.The team revealed the livery, which is inspired by the new Red Bull Spring Edition can, during a Red Bull Tokyo Drift night-time car meet and party on Saturday. The design, made in collaboration with Japanese calligrapher Bisen Aoyagi, features a predominantly white design with cherry red accents and ...Keep reading",
-      "author": "",
-      "tags": [
-        "F1 Chinese Grand Prix",
-        "Formula 1"
-      ]
-    },
-    {
       "source": "Autosport",
       "title": "How F1 became a multi-billion dollar industry",
       "url": "https://www.autosport.com/f1/news/how-f1-became-a-multi-billion-dollar-industry/10807108/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
@@ -661,17 +752,6 @@
       ]
     },
     {
-      "source": "The Race",
-      "title": "Marquez takes first win of 2026 in delayed Brazil MotoGP sprint",
-      "url": "https://www.the-race.com/motogp/marquez-takes-first-win-of-2026-in-delayed-brazil-motogp-sprint/",
-      "published_at": "2026-03-21T19:50:17+00:00",
-      "summary": "Defending MotoGP champion Marc Marquez took his first victory of the 2026 season in the delayed Goiania sprint, defeating Ducati stablemate Fabio Di Giannantonio",
-      "author": "Valentin Khorounzhiy",
-      "tags": [
-        "MotoGP"
-      ]
-    },
-    {
       "source": "Crash.net F1",
       "title": "Max Verstappen's Nurburgring win stripped from him over tyre error",
       "url": "https://www.crash.net/f1/news/1091767/1/max-verstappen-wins-mercedes-debut-his-second-nurburgring-race",
@@ -680,18 +760,6 @@
       "author": "",
       "tags": [
         "F1"
-      ]
-    },
-    {
-      "source": "The Race",
-      "title": "Verstappen stripped of Nurburgring win",
-      "url": "https://www.the-race.com/endurance/verstappen-stripped-of-nurburgring-win/",
-      "published_at": "2026-03-21T19:11:28+00:00",
-      "summary": "Max Verstappen's crew has been disqualified from this Saturday's Nurburgring Langstrecken-Serie race after winning on the road",
-      "author": "Valentin Khorounzhiy",
-      "tags": [
-        "Endurance",
-        "Formula 1"
       ]
     },
     {
@@ -768,17 +836,6 @@
       ]
     },
     {
-      "source": "Crash.net F1",
-      "title": "Aston Martin \"set the record straight\" after Newey \"speculation\" and Wheatley Audi exit",
-      "url": "https://www.crash.net/f1/news/1091636/1/aston-martin-set-record-straight-after-newey-speculation-and-wheatley-audi-exit",
-      "published_at": "2026-03-20T15:17:38+00:00",
-      "summary": "Aston Martin has backed team principal Adrian Newey after speculation that he could be pushed aside.",
-      "author": "",
-      "tags": [
-        "F1"
-      ]
-    },
-    {
       "source": "RaceFans",
       "title": "Wheatley leaves Audi “with immediate effect” amid Aston Martin rumours | Formula 1",
       "url": "https://www.racefans.net/2026/03/20/wheatley-leaves-audi-with-immediate-effect-amid-aston-martin-rumours/",
@@ -816,17 +873,6 @@
       ]
     },
     {
-      "source": "Crash.net F1",
-      "title": "Mercedes announces significant F1 management change",
-      "url": "https://www.crash.net/f1/news/1091617/1/mercedes-announces-significant-f1-management-change",
-      "published_at": "2026-03-20T14:06:20+00:00",
-      "summary": "Mercedes has promoted Bradley Lord to Deputy Team Principal.",
-      "author": "",
-      "tags": [
-        "F1"
-      ]
-    },
-    {
       "source": "Autosport",
       "title": "How Alonso’s terrifying 2016 Australian GP crash broke down barriers",
       "url": "https://www.autosport.com/f1/news/how-fernando-alonsos-terrifying-2016-australian-gp-crash-broke-down-barriers/10806693/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
@@ -839,17 +885,6 @@
       ]
     },
     {
-      "source": "Crash.net F1",
-      "title": "Fred Vasseur: New F1 cars don’t suit Charles Leclerc’s style, but he’s adjusting",
-      "url": "https://www.crash.net/f1/news/1091607/1/fred-vasseur-new-cars-dont-suit-charles-leclercs-style-hes-adjusting",
-      "published_at": "2026-03-20T11:59:00+00:00",
-      "summary": "Charles Leclerc has been forced to adapt his driving style to the 2026 F1 machinery.",
-      "author": "",
-      "tags": [
-        "F1"
-      ]
-    },
-    {
       "source": "Autosport",
       "title": "Why Bearman believes Haas has \"great baseline\" with F1 2026 race pace",
       "url": "https://www.autosport.com/f1/news/why-bearman-believes-haas-has-great-baseline-with-f1-2026-race-pace/10806642/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
@@ -859,17 +894,6 @@
       "tags": [
         "Shanghai International Circuit",
         "Formula 1"
-      ]
-    },
-    {
-      "source": "Crash.net F1",
-      "title": "Lance Stroll certain of Aston Martin “potential” amid early F1 season ‘frustration’",
-      "url": "https://www.crash.net/f1/news/1091606/1/lance-stroll-certain-aston-martin-potential-amid-early-f1-season-frustration",
-      "published_at": "2026-03-20T10:35:37+00:00",
-      "summary": "Lance Stroll has backed Aston Martin to recover from its troubled start to the 2026 Formula 1 season.",
-      "author": "",
-      "tags": [
-        "F1"
       ]
     },
     {
@@ -1086,18 +1110,6 @@
       ]
     },
     {
-      "source": "Autosport",
-      "title": "Just like Clark - Antonelli keeps his promise with iconic thumbs-up celebration",
-      "url": "https://www.autosport.com/f1/news/just-like-clark-antonelli-keeps-his-promise-with-iconic-thumbs-up-celebration/10805961/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "published_at": "2026-03-17T08:10:08+00:00",
-      "summary": "Melbourne, Australia. Kimi Antonelli has arranged to meet us at an Italian restaurant that has become a hotspot for F1's ample Italian-speaking community. At the next table is Franco Colapinto sharing a meal with some Argentinian friends. They catch up about motorsport, expectations for a world championship that is about to begin.Kimi looks ravenous in more ways than one. Keen to tuck into the ...Keep reading",
-      "author": "",
-      "tags": [
-        "Shanghai International Circuit",
-        "Formula 1"
-      ]
-    },
-    {
       "source": "RaceFans",
       "title": "Round-up: Red Bull performance “easy to maximise” so far for Hadjar, and more | RaceFans Round-up",
       "url": "https://www.racefans.net/2026/03/17/round-up-17th-march-2026/",
@@ -1106,18 +1118,6 @@
       "author": "Keith Collantine",
       "tags": [
         "RaceFans Round-up"
-      ]
-    },
-    {
-      "source": "Autosport",
-      "title": "No F1 rule changes ahead of Japan, but Wolff remains wary of ‘political knives’",
-      "url": "https://www.autosport.com/f1/news/no-f1-rule-changes-ahead-of-japan-but-wolff-remains-wary-of-political-knives/10805759/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "published_at": "2026-03-16T11:26:04+00:00",
-      "summary": "After the first two race weekends under the new technical regulations, opinions in the Formula 1 paddock remain divided. Lewis Hamilton said in Shanghai that he had not enjoyed the racing this much in a long time.“I think it’s the best racing that I’ve ever experienced in Formula 1,” he said after securing his first Ferrari podium. “It felt like go-karting, back and forth, back and ...Keep reading",
-      "author": "",
-      "tags": [
-        "Suzuka",
-        "Formula 1"
       ]
     },
     {
@@ -1134,6 +1134,24 @@
         "2026 Chinese Grand Prix",
         "Andrea Kimi Antonelli"
       ]
+    },
+    {
+      "source": "Formula1.com",
+      "title": "Mercedes show off wolf-inspired livery change for Japan",
+      "url": "https://www.formula1.com/en/latest/article/gallery-mercedes-show-off-wolf-inspired-livery-change-for-japanese-grand.1Job5FymRL9TkS0TUVm9MH",
+      "published_at": "",
+      "summary": "Mercedes have become the latest team to present a special livery for the upcoming Japanese Grand Prix.",
+      "author": "Formula 1",
+      "tags": []
+    },
+    {
+      "source": "Formula1.com",
+      "title": "Can Bearman avoid the ‘Sophomore Slump’ in 2026?",
+      "url": "https://www.formula1.com/en/latest/article/hinchcliffe-can-the-impressive-bearman-avoid-the-sophomore-slump-in-2026.62Jktg3t6tdbzRpVuFTpOd",
+      "published_at": "",
+      "summary": "Ollie Bearman had an impressive second half of 2025 – but can he kick on and hit new heights with Haas in 2026?",
+      "author": "Formula 1",
+      "tags": []
     },
     {
       "source": "Formula1.com",
@@ -1204,24 +1222,6 @@
       "url": "https://www.formula1.com/en/latest/article/what-time-is-the-formula-1-2026-japanese-grand-prix-and-how-can-i-watch-it.3nCyIIf5J9R6Jenm84DGnY",
       "published_at": "",
       "summary": "Here are all the timings – along with all the additional information you need – for the third Grand Prix weekend of the 2026 season from the Suzuka Circuit in Japan.",
-      "author": "Formula 1",
-      "tags": []
-    },
-    {
-      "source": "Formula1.com",
-      "title": "5 storylines we're excited about ahead of the Japanese GP",
-      "url": "https://www.formula1.com/en/latest/article/its-race-week-5-storylines-were-excited-about-ahead-of-the-2026-japanese.5U00nT4UfMClbL7MzbfUWc",
-      "published_at": "",
-      "summary": "Chris Medland breaks down the key talking points as F1 heads to Japan for the third round of the 2026 season.",
-      "author": "Formula 1",
-      "tags": []
-    },
-    {
-      "source": "Formula1.com",
-      "title": "How Hamilton rebooted himself in 2026",
-      "url": "https://www.formula1.com/en/latest/article/tremayne-how-hamilton-climbed-out-of-a-well-of-despair-and-rebooted-himself.5n77el8WzlcSaHbZh9bUsP",
-      "published_at": "",
-      "summary": "F1 Hall of Fame journalist David Tremayne looks at how Lewis Hamilton put a difficult year behind him and found his smile again this season.",
       "author": "Formula 1",
       "tags": []
     }
