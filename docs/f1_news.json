@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-24T05:17:15.098144+00:00",
+  "last_updated": "2026-03-24T08:08:05.095179+00:00",
   "total_articles": 105,
   "sources": [
     "Formula1.com",
@@ -12,6 +12,43 @@
     "Crash.net F1"
   ],
   "articles": [
+    {
+      "source": "RaceFans",
+      "title": "Haas reveals special ‘Godzilla’ livery for Japanese Grand Prix | Formula 1",
+      "url": "https://www.racefans.net/2026/03/24/haas-reveals-special-godzilla-livery-for-japanese-grand-prix/",
+      "published_at": "2026-03-24T07:28:33+00:00",
+      "summary": "Godzilla will appear on Haas's Formula 1 cars at this weekend's Japanese Grand Prix.",
+      "author": "Keith Collantine",
+      "tags": [
+        "2026 F1 season",
+        "Formula 1",
+        "2026 Japanese Grand Prix",
+        "Haas",
+        "Liveries"
+      ]
+    },
+    {
+      "source": "The Race",
+      "title": "Formula E just found the right model for its races' future",
+      "url": "https://www.the-race.com/formula-e/formula-e-just-found-the-right-model-for-its-races-future/",
+      "published_at": "2026-03-24T07:26:18+00:00",
+      "summary": "Formula E needs a new type of home as its cars get faster and street circuits get less practical. Jarama showed what's possible",
+      "author": "Sam Smith",
+      "tags": [
+        "Formula E"
+      ]
+    },
+    {
+      "source": "The Race",
+      "title": "F1 has accidentally solved its dirty air problem",
+      "url": "https://www.the-race.com/formula-1/f1-has-accidentally-solved-its-dirty-air-problem/",
+      "published_at": "2026-03-24T07:23:15+00:00",
+      "summary": "F1 has spent decades trying to solve an aerodynamic issue it was never going to conquer. Now it's found a way around it",
+      "author": "Edd Straw",
+      "tags": [
+        "Formula 1"
+      ]
+    },
     {
       "source": "RaceFans",
       "title": "Round-up: F1’s new cars will be ‘definitely slower’ in Suzuka’s first sector, and more | RaceFans Round-up",
@@ -599,29 +636,6 @@
       ]
     },
     {
-      "source": "The Race",
-      "title": "Brazil MotoGP weekend disrupted by track sinkhole",
-      "url": "https://www.the-race.com/motogp/brazil-motogp-sprint-threatened-by-sudden-sinkhole/",
-      "published_at": "2026-03-21T15:37:13+00:00",
-      "summary": "Damage to the track surface of MotoGP's returning venue Goiania risks jeopardising the Brazilian Grand Prix weekend",
-      "author": "Simon Patterson",
-      "tags": [
-        "MotoGP"
-      ]
-    },
-    {
-      "source": "The Race",
-      "title": "What happened in Verstappen's Nurburgring return race",
-      "url": "https://www.the-race.com/endurance/what-happened-in-verstappens-nurburgring-return-race/",
-      "published_at": "2026-03-21T15:12:40+00:00",
-      "summary": "Max Verstappen starred on his return to the Nurburgring, in a precursor to the 24-Hour event he'll compete in later this year and on debut with a new Mercedes. Here's how he fared and what he had to say...",
-      "author": "Valentin Khorounzhiy",
-      "tags": [
-        "Endurance",
-        "Formula 1"
-      ]
-    },
-    {
       "source": "RaceFans",
       "title": "Racing Bulls reveal special livery for Japanese Grand Prix | Formula 1",
       "url": "https://www.racefans.net/2026/03/21/racing-bulls-reveal-special-livery-for-japanese-grand-prix/",
@@ -1107,21 +1121,6 @@
         "Formula 1",
         "2026 Chinese Grand Prix",
         "Cadillac"
-      ]
-    },
-    {
-      "source": "RaceFans",
-      "title": "Sainz used ‘Overtake mode train’ tactics to keep Colapinto behind | Formula 1",
-      "url": "https://www.racefans.net/2026/03/16/sainz-used-overtake-mode-train-tactics-to-keep-colapinto-behind/",
-      "published_at": "2026-03-16T08:12:37+00:00",
-      "summary": "Carlos Sainz Jnr says Formula 1's new regulations can create an 'Overtake mode train' as the Drag Reduction System previously did.",
-      "author": "Keith Collantine",
-      "tags": [
-        "2026 F1 season",
-        "Formula 1",
-        "2026 Chinese Grand Prix",
-        "Carlos Sainz Jnr",
-        "Franco Colapinto"
       ]
     },
     {
