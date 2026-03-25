@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-25T11:30:17.068913+00:00",
+  "last_updated": "2026-03-25T15:53:27.333890+00:00",
   "total_articles": 105,
   "sources": [
     "Formula1.com",
@@ -14,6 +14,112 @@
   "articles": [
     {
       "source": "The Race",
+      "title": "Mercedes buying into another team would be bad news for F1",
+      "url": "https://www.the-race.com/formula-1/mercedes-buying-into-another-team-would-be-bad-news-for-f1/",
+      "published_at": "2026-03-25T15:52:50+00:00",
+      "summary": "Mercedes buying into another F1 team would not be a good look for the championship",
+      "author": "Edd Straw",
+      "tags": [
+        "Formula 1"
+      ]
+    },
+    {
+      "source": "Crash.net F1",
+      "title": "What F1’s last Italian winner made of Kimi Antonelli’s breakthrough feat",
+      "url": "https://www.crash.net/f1/news/1091921/1/what-f1s-last-italian-winner-made-kimi-antonellis-breakthrough-feat",
+      "published_at": "2026-03-25T15:00:00+00:00",
+      "summary": "Italy's last grand prix winner reacts to Kimi Antonelli's historic F1 triumph.",
+      "author": "",
+      "tags": [
+        "F1"
+      ]
+    },
+    {
+      "source": "Motorsport.com",
+      "title": "Five things to look out for at F1's Japanese GP",
+      "url": "https://www.motorsport.com/f1/news/five-things-to-look-out-for-at-the-f1-japanese-gp/10807959/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "published_at": "2026-03-25T14:11:34+00:00",
+      "summary": "Formula 1 is set for the final instalment of its short, early season leg in Asia this weekend as the Japanese Grand Prix will host round three of the 2026 campaign.This follows the season-opening Australian and Chinese grands prix, which were both won by Mercedes - clearly dominating the latest regulation switch so far.Whether that superiority continues this weekend remains to be seen ...Keep reading",
+      "author": "",
+      "tags": [
+        "F1 Japanese Grand Prix",
+        "Formula 1"
+      ]
+    },
+    {
+      "source": "Motorsport.com",
+      "title": "Controversy hits Mercedes’ two-phase front wing actuators, FIA investigates",
+      "url": "https://www.motorsport.com/f1/news/f1-mercedes-controversy-surrounds-two-stage-rear-wing-and-the-fia-is-investigating/10807919/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "published_at": "2026-03-25T12:30:04+00:00",
+      "summary": "The issue surrounding Formula 1 compression ratios is not yet fully closed, and Mercedes is once again under scrutiny. While the FIA will clamp down on the high-profile compression ratio loophole from 1 June, a new area of discussion has opened up around the Silver Arrows’ front wing.Instead of focussing on the AMG M17 E Performance power unit inside the W17, all eyes are now on the ...Keep reading",
+      "author": "",
+      "tags": [
+        "F1 Japanese Grand Prix",
+        "Formula 1"
+      ]
+    },
+    {
+      "source": "Motorsport.com",
+      "title": "Lando Norris praised by fans after heartfelt gift to McLaren staff is revealed",
+      "url": "https://www.motorsport.com/f1/news/lando-norris-praised-by-fans-after-heartfelt-gift-to-mclaren-staff-is-revealed/10807657/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "published_at": "2026-03-25T12:04:00+00:00",
+      "summary": "Lando Norris has been applauded by fans after it was revealed that he gifted McLaren employees a miniature Miami Grand Prix trophy following his maiden Formula 1 victory at the Hard Rock Stadium.The McLaren driver secured his long-awaited first grand prix win at the 2024 Miami Grand Prix, fending off his rival Max Verstappen. Now, a McLaren employee has revealed the gift that the Briton gave ...Keep reading",
+      "author": "",
+      "tags": [
+        "F1 Japanese Grand Prix",
+        "Formula 1"
+      ]
+    },
+    {
+      "source": "Crash.net F1",
+      "title": "GT driver hails “battles we live for” after Max Verstappen Nurburgring scrap",
+      "url": "https://www.crash.net/f1/news/1091920/1/gt-driver-hails-battles-we-live-after-max-verstappen-nurburgring-scrap",
+      "published_at": "2026-03-25T12:00:00+00:00",
+      "summary": "One GT driver has hailed the support he received following a battle with Max Verstappen in NLS2",
+      "author": "",
+      "tags": [
+        "F1"
+      ]
+    },
+    {
+      "source": "Motorsport.com",
+      "title": "Max Verstappen tests Nissan’s Super GT car ahead of Japanese Grand Prix",
+      "url": "https://www.motorsport.com/f1/news/max-verstappen-tests-nissan-super-gt-car-ahead-of-japanese-grand-prix/10807931/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "published_at": "2026-03-25T11:49:31+00:00",
+      "summary": "Formula 1 star Max Verstappen made a surprise appearance at a private Super GT test on Wednesday, driving a Nissan Z GT500 contender.The four-time world champion drew the attention of fans gathered at the Fuji Speedway test when he rolled out of the pits in a Red Bull-liveried Nissan during the second day of the manufacturers’ test.Motorsport.com understands that the outing was part of a ...Keep reading",
+      "author": "",
+      "tags": [
+        "F1 Japanese Grand Prix",
+        "Formula 1",
+        "Super GT"
+      ]
+    },
+    {
+      "source": "Motorsport.com",
+      "title": "Question of the week: How long will Aston Martin's current crisis last?",
+      "url": "https://www.motorsport.com/f1/news/question-of-the-week-how-long-will-aston-martins-current-crisis-last/10807885/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "published_at": "2026-03-25T11:30:04+00:00",
+      "summary": "Given how the start of the new era is unfolding for the Aston Martin and Honda joint project, just finishing the Japanese Grand Prix - even if with only one car - can be considered a success for the troubled outfit. Yet, the ambitions of the team are far greater - as it's no secret Lawrence Stroll wants to see it winning races and championships, and sooner rather than later. Right now, though, it ...Keep reading",
+      "author": "",
+      "tags": [
+        "F1 Japanese Grand Prix",
+        "Formula 1"
+      ]
+    },
+    {
+      "source": "Autosport",
+      "title": "On this day: Ayrton Senna's F1 debut marred by early retirement in Rio",
+      "url": "https://www.autosport.com/f1/news/on-this-day-ayrton-sennas-f1-debut-marred-by-early-retirement-in-rio/10807911/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "published_at": "2026-03-25T11:28:44+00:00",
+      "summary": "On March 25, 1984, at the Jacarepagua circuit in Rio de Janeiro, a Formula 1 career began that would go on to become one of the most iconic in the sport’s history. The 24-year-old Ayrton Senna lined up for his first grand prix, driving for the modest Toleman team. But what started as a special moment for the Brazilian crowd – a home driver debuting on home soil – unfortunately had an ...Keep reading",
+      "author": "",
+      "tags": [
+        "Autodromo Internacional Nelson Piquet",
+        "Formula 1"
+      ]
+    },
+    {
+      "source": "The Race",
       "title": "A past KTM MotoGP strength is becoming a big weakness",
       "url": "https://www.the-race.com/motogp/a-past-ktm-motogp-strength-is-becoming-a-big-weakness/",
       "published_at": "2026-03-25T11:27:24+00:00",
@@ -25,13 +131,24 @@
     },
     {
       "source": "The Race",
-      "title": "F1 has a clear priority fix for first major 2026 rule changes",
+      "title": "F1 has a clear priority for post-Japanese GP rule changes",
       "url": "https://www.the-race.com/formula-1/f1-has-a-clear-priority-fix-for-first-major-2026-rule-changes/",
       "published_at": "2026-03-25T11:26:17+00:00",
       "summary": "F1 bosses have a clear priority fix for the planned post-Japanese GP rule changes",
       "author": "Jon Noble",
       "tags": [
         "Formula 1"
+      ]
+    },
+    {
+      "source": "Crash.net F1",
+      "title": "Fernando Alonso to arrive late for F1 Japanese Grand Prix, misses media day",
+      "url": "https://www.crash.net/f1/news/1091927/1/fernando-alonso-arrive-late-f1-japanese-grand-prix-misses-media-day",
+      "published_at": "2026-03-25T10:05:42+00:00",
+      "summary": "Fernando Alonso will be late arriving for the F1 Japanese Grand Prix this weekend due to personal reasons.",
+      "author": "",
+      "tags": [
+        "F1"
       ]
     },
     {
@@ -53,7 +170,7 @@
       "summary": "Fernando Alonso will skip media day for the Japanese Grand Prix on Thursday amid the birth of his first child.The two-time F1 champion and his partner Melissa Jimenez revealed last year that they were due to become parents with it happening some time around this weekend's race.It means he will now arrive at Suzuka on Friday instead of Thursday, though he is also giving his FP1 seat to ...Keep reading",
       "author": "",
       "tags": [
-        "Suzuka",
+        "F1 Japanese Grand Prix",
         "Formula 1"
       ]
     },
@@ -67,6 +184,17 @@
       "tags": [
         "Autodromo Internacional Nelson Piquet",
         "Formula 1"
+      ]
+    },
+    {
+      "source": "Crash.net F1",
+      "title": "Star Wars, Superman and stolen diamonds: The best movie-themed F1 liveries",
+      "url": "https://www.crash.net/f1/feature/1091918/1/star-wars-superman-and-stolen-diamonds-best-movie-themed-f1-liveries",
+      "published_at": "2026-03-25T09:53:40+00:00",
+      "summary": "A look back at some of the best movie-themed F1 liveries of years gone by.",
+      "author": "",
+      "tags": [
+        "F1"
       ]
     },
     {
@@ -109,7 +237,7 @@
       "title": "All the special F1 liveries for Japanese GP",
       "url": "https://www.the-race.com/formula-1/two-special-f1-liveries-for-japanese-gp-revealed/",
       "published_at": "2026-03-25T08:14:00+00:00",
-      "summary": "Two F1 teams have brought special one-off liveries to Suzuka this weekend",
+      "summary": "All the F1 teams which brought special one-off liveries to Suzuka this weekend",
       "author": "The Race Team",
       "tags": [
         "Formula 1"
@@ -157,7 +285,7 @@
       "summary": "Ayao Komatsu has rebuffed suggestions that being a Ferrari customer should give Haas an advantage in the 2026 Formula 1 midfield battle - claiming Audi is “very good”.The American outfit enjoyed a strong start to the new regulations as it is currently fourth in the standings after two rounds, with Oliver Bearman scoring seventh and fifth in Melbourne and Shanghai respectively. Haas ...Keep reading",
       "author": "",
       "tags": [
-        "Suzuka",
+        "F1 Japanese Grand Prix",
         "Formula 1"
       ]
     },
@@ -192,7 +320,7 @@
       "summary": "Ferrari is looking for confirmation in Japan. The Scuderia, considered the only real alternative to Mercedes in the fight at the front, has prepared for the third race of the Formula 1 season with significant work carried out back at the factory after analysing the data collected from the first two grands prix.The Suzuka circuit represents a third type of track and is expected to be a ...Keep reading",
       "author": "",
       "tags": [
-        "Suzuka",
+        "F1 Japanese Grand Prix",
         "Formula 1"
       ]
     },
@@ -260,7 +388,7 @@
       "summary": "Pitstop strategy is often a decisive factor during Formula 1 grands prix with Hungary in 2019 being a classic example of that. Max Verstappen attempted to make the one-stopper work, but eventually fell short to the two-stopping Lewis Hamilton, who completed a late charge on fresher tyres for victory.Obviously the debate of a one-stop versus two-stop contest has been ongoing throughout the ...Keep reading",
       "author": "",
       "tags": [
-        "Suzuka",
+        "F1 Japanese Grand Prix",
         "Formula 1"
       ]
     },
@@ -295,7 +423,7 @@
       "summary": "The Haas Formula 1 team has joined Racing Bulls in launching a special livery for this weekend’s Japanese Grand Prix at Suzuka.Haas launched the bold design during a Tokyo event as it will pay tribute to the Japanese film character Godzilla after recently partnering with entertainment company Toho.The VF-26 will stick to its traditional white, black and red colour scheme but with the ...Keep reading",
       "author": "",
       "tags": [
-        "Suzuka",
+        "F1 Japanese Grand Prix",
         "Formula 1"
       ]
     },
@@ -403,7 +531,7 @@
       "summary": "James Hinchcliffe defiantly stated during the F1 Nation podcast that 'Lewis Hamilton is back,' arguing that 'this is everything that all the Ferrari fans were hoping for at the start of 2025.'Hamilton suffered a difficult first season with Ferrari after he joined the Maranello outfit at the start of 2025. As he took time to adapt to the new team, he managed to secure only one sprint race win ...Keep reading",
       "author": "",
       "tags": [
-        "Suzuka",
+        "F1 Japanese Grand Prix",
         "Formula 1"
       ]
     },
@@ -415,7 +543,7 @@
       "summary": "Former Formula 1 driver and F1 TV pundit Jolyon Palmer is confident that conversations between Max Verstappen and Mercedes chief Toto Wolff will happen.The four-time champion is currently facing reliability issues with his Red Bull machinery. He sits eighth in the drivers' standings with eight points while Mercedes has dominated the start of the season. The Brackley outfit has won the two ...Keep reading",
       "author": "",
       "tags": [
-        "Suzuka",
+        "F1 Japanese Grand Prix",
         "Formula 1"
       ]
     },
@@ -439,7 +567,7 @@
       "summary": "Torger Christian “Toto” Wolff – born to a Polish mother and a Romanian father – caught the motorsport bug when he was a teenager. He competed in Austrian and German Formula Ford, funding his racing career by working as a driving instructor at – ironically – the Red Bull Ring.Wolff quickly realised he lacked the talent to make it as a driver and turned his focus to studying ...Keep reading",
       "author": "",
       "tags": [
-        "Suzuka",
+        "F1 Japanese Grand Prix",
         "Formula 1"
       ]
     },
@@ -495,7 +623,7 @@
       "summary": "Fernando Alonso will sit out Free Practice 1 at Formula 1’s Japanese Grand Prix, ceding his Aston Martin AMR26 to third driver Jak Crawford.According to F1’s sporting regulations, every team must enter a rookie driver (two grand prix starts at most) on four occasions this season – two for each car. This normally occurs in FP1 sessions.Other than Racing Bulls with newcomer Arvid ...Keep reading",
       "author": "",
       "tags": [
-        "Suzuka",
+        "F1 Japanese Grand Prix",
         "Formula 1"
       ]
     },
@@ -576,7 +704,7 @@
       "summary": "The cancellation of the Bahrain and Jeddah grands prix may be detrimental to Red Bull – unlike some other Formula 1 teams.F1’s Middle Eastern rounds have been scrapped due to the impact of the ongoing Iran war in the region, creating a five-week gap between the Suzuka and Miami events, this weekend and in early May respectively.Red Bull had a tough Chinese Grand Prix, with Max ...Keep reading",
       "author": "",
       "tags": [
-        "Suzuka",
+        "F1 Japanese Grand Prix",
         "Formula 1"
       ]
     },
@@ -601,18 +729,6 @@
       "author": "",
       "tags": [
         "F1"
-      ]
-    },
-    {
-      "source": "Motorsport.com",
-      "title": "\"We know it’s not right” – why Carlos Sainz still doesn’t like F1’s new era",
-      "url": "https://www.motorsport.com/f1/news/we-know-its-not-right-why-carlos-sainz-still-doesnt-like-f1s-new-era/10807043/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "published_at": "2026-03-23T10:48:17+00:00",
-      "summary": "Criticism of Formula 1’s new regulations has been growing among some factions of the paddock, and Williams’ Carlos Sainz is the latest to voice his concerns over the series’ new era.For 2026, F1 rolled out new regulations that call for smaller, more agile cars and mandate for power units that rely on a near-50:50 split in electrical and internal combustion power. As a result, drivers ...Keep reading",
-      "author": "",
-      "tags": [
-        "F1 Chinese Grand Prix",
-        "Formula 1"
       ]
     },
     {
@@ -641,18 +757,6 @@
       ]
     },
     {
-      "source": "Motorsport.com",
-      "title": "Guenther Steiner makes bold Lewis Hamilton and Charles Leclerc prediction for 2026 F1 season",
-      "url": "https://www.motorsport.com/f1/news/guenther-steiner-makes-bold-lewis-hamilton-and-charles-leclerc-prediction-for-2026-f1-season/10807271/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "published_at": "2026-03-23T09:44:04+00:00",
-      "summary": "Guenther Steiner has backed Charles Leclerc to beat Lewis Hamilton in the 2026 Formula 1 season.While the seven-time champion entered the 2026 season rejuvenated after a personal 'reset' and claimed his first Ferrari podium at the Chinese Grand Prix, the former Haas team principal believes that Leclerc will be hungrier for the championship.During an episode of The Red Flags Podcast ...Keep reading",
-      "author": "",
-      "tags": [
-        "F1 Chinese Grand Prix",
-        "Formula 1"
-      ]
-    },
-    {
       "source": "Crash.net F1",
       "title": "Why F1’s unexpected April break will be crucial for overweight Williams",
       "url": "https://www.crash.net/f1/news/1091886/1/why-f1s-unexpected-april-break-will-be-crucial-overweight-williams",
@@ -661,17 +765,6 @@
       "author": "",
       "tags": [
         "F1"
-      ]
-    },
-    {
-      "source": "The Race",
-      "title": "Honda needs 'magic' to avoid a painful next Aston Martin failure",
-      "url": "https://www.the-race.com/formula-1/honda-needs-magic-to-avoid-a-painful-next-aston-martin-failure/",
-      "published_at": "2026-03-23T08:44:13+00:00",
-      "summary": "Two grands prix, and no finish for either Aston Martin. Next up? The Japanese GP, where Honda faces the prospect of a brutal home F1 race",
-      "author": "Scott Mitchell-Malm",
-      "tags": [
-        "Formula 1"
       ]
     },
     {
@@ -686,18 +779,6 @@
       ]
     },
     {
-      "source": "Motorsport.com",
-      "title": "David Coulthard questions driver impact of Aston Martin vibration problems with strong stance",
-      "url": "https://www.motorsport.com/f1/news/david-coulthard-questions-driver-impact-of-aston-martin-vibration-problems-with-strong-stance/10807340/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "published_at": "2026-03-22T16:28:20+00:00",
-      "summary": "Former Formula 1 driver David Coulthard believes that the vibration issues that Aston Martin is battling against are 'more of an issue for the reliability than for the driver'.Aston Martin has had a difficult start to the year. With a new power unit partnership with Honda and the first Aston Martin F1 car designed under Adrian Newey, expectations were high for the Silverstone outfit. But ...Keep reading",
-      "author": "",
-      "tags": [
-        "F1 Chinese Grand Prix",
-        "Formula 1"
-      ]
-    },
-    {
       "source": "Crash.net F1",
       "title": "Mercedes explains tyre error that caused Max Verstappen’s Nurburgring disqualification",
       "url": "https://www.crash.net/f1/news/1091827/1/mercedes-explains-tyre-error-caused-max-verstappens-nurburgring-disqualification",
@@ -706,29 +787,6 @@
       "author": "",
       "tags": [
         "F1"
-      ]
-    },
-    {
-      "source": "Motorsport.com",
-      "title": "F1 fans left 'jaw-dropped' as Racing Bulls Japanese GP livery sparks huge reaction",
-      "url": "https://www.motorsport.com/f1/news/f1-fans-left-jaw-dropped-as-racing-bulls-japanese-gp-livery-sparks-huge-reaction-/10807253/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "published_at": "2026-03-22T15:05:01+00:00",
-      "summary": "Formula 1 fans have delivered their verdict on Racing Bulls' special Japanese Grand Prix livery.The Italian team unveiled the livery during a Red Bull Tokyo Drift event on Saturday. The striking design features a white base and cherry red accents, and, having been created with Japanese calligrapher Bisen Aoyagi, incorporates traditional calligraphy into the livery.It's safe to say that ...Keep reading",
-      "author": "",
-      "tags": [
-        "F1 Chinese Grand Prix",
-        "Formula 1"
-      ]
-    },
-    {
-      "source": "Motorsport.com",
-      "title": "Every race engineer in F1 2026",
-      "url": "https://www.motorsport.com/f1/news/every-race-engineer-f1-2026/10807004/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "published_at": "2026-03-22T14:45:19+00:00",
-      "summary": "More than ever, race engineers are the drivers’ backbone in Formula 1. All communication – whether it concerns technical matters or strategic decisions – goes through the race engineer.This year, with new regulations concerning energy management and additional tasks drivers must perform in the cockpit, that role may be more important than ever. But who are these individuals that often ...Keep reading",
-      "author": "",
-      "tags": [
-        "Formula 1"
       ]
     },
     {
@@ -777,17 +835,6 @@
       ]
     },
     {
-      "source": "Crash.net F1",
-      "title": "How F1’s most controversial safety change has earned its keep eight years on",
-      "url": "https://www.crash.net/f1/news/1091662/1/how-f1s-most-controversial-safety-change-has-earned-its-keep-eight-years",
-      "published_at": "2026-03-22T08:00:00+00:00",
-      "summary": "The halo is a fixture in modern Formula 1, but it's introduction eight years ago was not widely welcomed...",
-      "author": "",
-      "tags": [
-        "F1"
-      ]
-    },
-    {
       "source": "RaceFans",
       "title": "Round-up: Verstappen, Juncadella and Gounon win at Nurburgring, and more | RaceFans round-up",
       "url": "https://www.racefans.net/2026/03/22/round-up-22nd-march-2026/",
@@ -796,17 +843,6 @@
       "author": "Keith Collantine",
       "tags": [
         "RaceFans Round-up"
-      ]
-    },
-    {
-      "source": "Crash.net F1",
-      "title": "Max Verstappen's Nurburgring win stripped from him over tyre error",
-      "url": "https://www.crash.net/f1/news/1091767/1/max-verstappen-wins-mercedes-debut-his-second-nurburgring-race",
-      "published_at": "2026-03-21T19:20:00+00:00",
-      "summary": "F1 champion Max Verstappen scored his second NLS victory on Saturday, but was later disqualified",
-      "author": "",
-      "tags": [
-        "F1"
       ]
     },
     {
@@ -825,17 +861,6 @@
       ]
     },
     {
-      "source": "Crash.net F1",
-      "title": "WATCH LIVE: Max Verstappen’s Mercedes race debut at the Nurburgring in NLS2",
-      "url": "https://www.crash.net/f1/news/1091670/1/watch-live-max-verstappens-mercedes-race-debut-nurburgring-nls2",
-      "published_at": "2026-03-21T09:50:00+00:00",
-      "summary": "Watch live and free Max Verstappen race at the Nurburgring in NLS2",
-      "author": "",
-      "tags": [
-        "F1"
-      ]
-    },
-    {
       "source": "Autosport",
       "title": "Eight shock Formula 1 team principal changes",
       "url": "https://www.autosport.com/f1/news/eight-shock-formula-1-team-principal-changes/10806799/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
@@ -844,17 +869,6 @@
       "author": "",
       "tags": [
         "Formula 1"
-      ]
-    },
-    {
-      "source": "Crash.net F1",
-      "title": "Rally superstar’s F1 dream dealt heartbreaking blow due to health issues",
-      "url": "https://www.crash.net/f1/news/1091719/1/rally-superstars-f1-dream-dealt-heartbreaking-blow-due-health-issues",
-      "published_at": "2026-03-21T08:35:13+00:00",
-      "summary": "Kalle Rovanpera’s hopes of reaching F1 have taken a big knock due to health issues",
-      "author": "",
-      "tags": [
-        "F1"
       ]
     },
     {
@@ -1119,16 +1133,58 @@
       ]
     },
     {
-      "source": "Autosport",
-      "title": "Ferrari’s revolutionary “Macarena wing” will return in Japan",
-      "url": "https://www.autosport.com/f1/news/ferraris-revolutionary-macarena-wing-will-return-in-japan/10806001/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "published_at": "2026-03-17T11:40:04+00:00",
-      "summary": "Ferrari put on a show in Shanghai with Lewis Hamilton and Charles Leclerc fighting throughout the grand prix, but the SF-26 had to settle for third place with the seven-time world champion – who finally secured his first podium with the Scuderia. On the day of Kimi Antonelli’s first triumph, Ferrari finished 25 seconds behind – an eternity for what currently seems the only credible ...Keep reading",
-      "author": "",
-      "tags": [
-        "Shanghai International Circuit",
-        "Formula 1"
-      ]
+      "source": "Formula1.com",
+      "title": "Why Japanese car culture makes racing at Suzuka so special",
+      "url": "https://www.formula1.com/en/latest/article/drift-kings-iconic-cars-and-fantastic-fans-why-japanese-car-culture-makes.2oUhqjCr4c61pi3dh27Fy5",
+      "published_at": "",
+      "summary": "Japan has a special relationship with cars – here's how the car culture adds an extra layer of excitement to the Suzuka race weekend.",
+      "author": "Formula 1",
+      "tags": []
+    },
+    {
+      "source": "Formula1.com",
+      "title": "5 iconic Japanese Grand Prix battles",
+      "url": "https://www.formula1.com/en/latest/article/from-wheel-to-wheel-scraps-to-a-famous-qualifying-showdown-5-iconic-japanese.lE4LLo7M9sy2fYe4WGmkm",
+      "published_at": "",
+      "summary": "Ahead of the Japanese Grand Prix, F1.com relives some of the most iconic battles that have played out during the event.",
+      "author": "Formula 1",
+      "tags": []
+    },
+    {
+      "source": "Formula1.com",
+      "title": "Who are the 2026 F1 Sim Racing World Championship drivers?",
+      "url": "https://www.formula1.com/en/latest/article/who-are-the-2026-f1-sim-racing-world-championship-drivers.7rg5EQkhSOhTZM5uHypsLu",
+      "published_at": "",
+      "summary": "The F1 Sim Racing World Championship is back for 2026! Meet every driver, team and storyline ahead of the season opener at DreamHack Birmingham 27-29 March.",
+      "author": "Formula 1",
+      "tags": []
+    },
+    {
+      "source": "Formula1.com",
+      "title": "How the 2026 F1 Sim Racing Championship works",
+      "url": "https://www.formula1.com/en/latest/article/2026-f1-sim-racing-world-championship-what-it-is-how-it-works-and-why-you.10PQVfjB1HUaltYRFKRWDf",
+      "published_at": "",
+      "summary": "Discover the 2026 F1 Sim Racing World Championship, including the full schedule, teams, format and how to watch.",
+      "author": "Formula 1",
+      "tags": []
+    },
+    {
+      "source": "Formula1.com",
+      "title": "What is the weather forecast for the Japanese Grand Prix?",
+      "url": "https://www.formula1.com/en/latest/article/what-is-the-weather-forecast-for-the-2026-japanese-grand-prix.5CwiSdukW6W0sxkfyIYFQn",
+      "published_at": "",
+      "summary": "The weather forecast is in ahead of the Japanese Grand Prix weekend at the Suzuka Circuit.",
+      "author": "Formula 1",
+      "tags": []
+    },
+    {
+      "source": "Formula1.com",
+      "title": "10 tricky quiz questions about the Japanese Grand Prix",
+      "url": "https://www.formula1.com/en/latest/article/quiz-10-tricky-quiz-questions-about-the-japanese-grand-prix.3fsbiVd2KcD8NACadf9FwB",
+      "published_at": "",
+      "summary": "Test your knowledge of Formula 1 racing at Suzuka and Fuji, ahead of this weekend’s race.",
+      "author": "Formula 1",
+      "tags": []
     },
     {
       "source": "Formula1.com",
@@ -1163,60 +1219,6 @@
       "url": "https://www.formula1.com/en/latest/article/tech-weekly-why-we-could-be-looking-at-a-very-different-2026-japanese-grand-prix.8NHMo9Jj5AY1PGpLaGAVu",
       "published_at": "",
       "summary": "Mark Hughes examines why the tyre demands at this year's Japanese Grand Prix in Suzuka could be different amid the 2026 rule changes.",
-      "author": "Formula 1",
-      "tags": []
-    },
-    {
-      "source": "Formula1.com",
-      "title": "Tsunoda on his F1 past, present and future",
-      "url": "https://www.formula1.com/en/latest/article/exclusive-im-hungry-to-get-back-tsunoda-on-his-f1-past-present-and-future.2fFyrtNr48YvaXqe7zDKpH",
-      "published_at": "",
-      "summary": "Yuki Tsunoda has been getting used to a different F1 role in 2026 – the Japanese driver taking on reserve duties for Red Bull and sister outfit Racing Bulls after losing his full-time race seat at the end of the 2025 season.",
-      "author": "Formula 1",
-      "tags": []
-    },
-    {
-      "source": "Formula1.com",
-      "title": "Mercedes show off wolf-inspired livery change for Japan",
-      "url": "https://www.formula1.com/en/latest/article/gallery-mercedes-show-off-wolf-inspired-livery-change-for-japanese-grand.1Job5FymRL9TkS0TUVm9MH",
-      "published_at": "",
-      "summary": "Mercedes have become the latest team to present a special livery for the upcoming Japanese Grand Prix.",
-      "author": "Formula 1",
-      "tags": []
-    },
-    {
-      "source": "Formula1.com",
-      "title": "Can Bearman avoid the ‘Sophomore Slump’ in 2026?",
-      "url": "https://www.formula1.com/en/latest/article/hinchcliffe-can-the-impressive-bearman-avoid-the-sophomore-slump-in-2026.62Jktg3t6tdbzRpVuFTpOd",
-      "published_at": "",
-      "summary": "Ollie Bearman had an impressive second half of 2025 – but can he kick on and hit new heights with Haas in 2026?",
-      "author": "Formula 1",
-      "tags": []
-    },
-    {
-      "source": "Formula1.com",
-      "title": "Vowles explains how Williams ‘need’ to use April break",
-      "url": "https://www.formula1.com/en/latest/article/vowles-explains-how-williams-plan-to-use-april-break-to-get-ourselves-back.3gCSNyNnydETVTnpSSGCXX",
-      "published_at": "",
-      "summary": "Williams Team Principal James Vowles has set out how the squad intend to use the upcoming April break to “get ourselves back on the front foot” following a tricky start to the year, with the Briton admitting that the Grove-based outfit need “every single hour” of that time to improve.",
-      "author": "Formula 1",
-      "tags": []
-    },
-    {
-      "source": "Formula1.com",
-      "title": "Listen to F1 Nation’s Japanese GP preview",
-      "url": "https://www.formula1.com/en/latest/article/f1-nation-whos-the-favourite-for-suzuka-and-how-might-a-russell-vs-antonelli.5GgdZgVaMG2q53YHopuHaf",
-      "published_at": "",
-      "summary": "Formula 1 World Championship leader George Russell will show his inner “steeliness” when racing Mercedes team mate Kimi Antonelli this season, according to former F1 driver Jolyon Palmer.",
-      "author": "Formula 1",
-      "tags": []
-    },
-    {
-      "source": "Formula1.com",
-      "title": "Haas reveal Godzilla-themed livery for Japanese GP",
-      "url": "https://www.formula1.com/en/latest/article/gallery-haas-reveal-special-godzilla-themed-livery-for-japanese-grand-prix.7GnmylxXYe0UD4Ei8zLp7L",
-      "published_at": "",
-      "summary": "Haas have unveiled a special livery for the upcoming weekend in Suzuka, with the 'King of the Monsters' adorning the car.",
       "author": "Formula 1",
       "tags": []
     }
