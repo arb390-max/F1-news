@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-25T08:06:53.423130+00:00",
+  "last_updated": "2026-03-25T11:30:17.068913+00:00",
   "total_articles": 105,
   "sources": [
     "Formula1.com",
@@ -12,6 +12,109 @@
     "Crash.net F1"
   ],
   "articles": [
+    {
+      "source": "The Race",
+      "title": "A past KTM MotoGP strength is becoming a big weakness",
+      "url": "https://www.the-race.com/motogp/a-past-ktm-motogp-strength-is-becoming-a-big-weakness/",
+      "published_at": "2026-03-25T11:27:24+00:00",
+      "summary": "One area where the KTM has long looked the class of the MotoGP field seems to have become a considerable weakness instead",
+      "author": "Valentin Khorounzhiy",
+      "tags": [
+        "MotoGP"
+      ]
+    },
+    {
+      "source": "The Race",
+      "title": "F1 has a clear priority fix for first major 2026 rule changes",
+      "url": "https://www.the-race.com/formula-1/f1-has-a-clear-priority-fix-for-first-major-2026-rule-changes/",
+      "published_at": "2026-03-25T11:26:17+00:00",
+      "summary": "F1 bosses have a clear priority fix for the planned post-Japanese GP rule changes",
+      "author": "Jon Noble",
+      "tags": [
+        "Formula 1"
+      ]
+    },
+    {
+      "source": "Autosport",
+      "title": "The greatest campaigns that didn't win the F1 title",
+      "url": "https://www.autosport.com/f1/news/the-greatest-campaigns-that-didnt-win-the-f1-title/10807787/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "published_at": "2026-03-25T10:02:42+00:00",
+      "summary": "Hardcore motorsport fans know that the best performers aren’t always rewarded with a title at season’s end. Unreliability, misfortune, bizarre scoring systems and inferior equipment can combine to deny drivers even when they are at the top of their game. For this list, in chronological order, we have picked out Formula 1’s greatest all-season performances by drivers who didn’t win the ...Keep reading",
+      "author": "",
+      "tags": [
+        "Formula 1"
+      ]
+    },
+    {
+      "source": "Motorsport.com",
+      "title": "Fernando Alonso to skip F1 Japanese GP media day",
+      "url": "https://www.motorsport.com/f1/news/fernando-alonso-to-skip-f1-japanese-gp-media-day/10807892/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "published_at": "2026-03-25T10:02:19+00:00",
+      "summary": "Fernando Alonso will skip media day for the Japanese Grand Prix on Thursday amid the birth of his first child.The two-time F1 champion and his partner Melissa Jimenez revealed last year that they were due to become parents with it happening some time around this weekend's race.It means he will now arrive at Suzuka on Friday instead of Thursday, though he is also giving his FP1 seat to ...Keep reading",
+      "author": "",
+      "tags": [
+        "Suzuka",
+        "Formula 1"
+      ]
+    },
+    {
+      "source": "Motorsport.com",
+      "title": "On this day: Ayrton Senna's F1 debut marred by early retirement in Rio",
+      "url": "https://www.motorsport.com/f1/news/on-this-day-senna-makes-his-f1-debut-with-an-early-retirement-in-rio/10807887/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "published_at": "2026-03-25T10:00:02+00:00",
+      "summary": "On March 25, 1984, at the Jacarepagua circuit in Rio de Janeiro, a Formula 1 career began that would go on to become one of the most iconic in the sport’s history. The 24-year-old Ayrton Senna lined up for his first grand prix, driving for the modest Toleman team. But what started as a special moment for the Brazilian crowd – a home driver debuting on home soil – unfortunately had an ...Keep reading",
+      "author": "",
+      "tags": [
+        "Autodromo Internacional Nelson Piquet",
+        "Formula 1"
+      ]
+    },
+    {
+      "source": "RaceFans",
+      "title": "Wolff sees “danger” new engine rules will blunt Mercedes’ advantage | Formula 1",
+      "url": "https://www.racefans.net/2026/03/25/wolff-sees-danger-new-engine-rules-will-blunt-mercedes-advantage/",
+      "published_at": "2026-03-25T09:31:48+00:00",
+      "summary": "The FIA's change to its power unit rules in June could affect performance and reliability, says Mercedes team principal Toto Wolff.",
+      "author": "Keith Collantine",
+      "tags": [
+        "2026 F1 season",
+        "Formula 1",
+        "Mercedes"
+      ]
+    },
+    {
+      "source": "The Race",
+      "title": "Alonso to miss Japanese GP Thursday with first child due",
+      "url": "https://www.the-race.com/formula-1/alonso-to-miss-japanese-gp-thursday-with-first-child-due/",
+      "published_at": "2026-03-25T09:00:10+00:00",
+      "summary": "Fernando Alonso is to arrive a day late to F1's Japanese GP as he awaits the birth of his first child",
+      "author": "Jon Noble",
+      "tags": [
+        "Formula 1"
+      ]
+    },
+    {
+      "source": "The Race",
+      "title": "Seven key questions for F1's Japanese GP",
+      "url": "https://www.the-race.com/formula-1/japanese-gp-last-f1-2026-race-for-five-weeks-key-questions/",
+      "published_at": "2026-03-25T08:59:48+00:00",
+      "summary": "F1's short-notice cancellations makes the Japanese Grand Prix the last race weekend for ages. Here's what's at stake",
+      "author": "The Race Team",
+      "tags": [
+        "Formula 1"
+      ]
+    },
+    {
+      "source": "The Race",
+      "title": "All the special F1 liveries for Japanese GP",
+      "url": "https://www.the-race.com/formula-1/two-special-f1-liveries-for-japanese-gp-revealed/",
+      "published_at": "2026-03-25T08:14:00+00:00",
+      "summary": "Two F1 teams have brought special one-off liveries to Suzuka this weekend",
+      "author": "The Race Team",
+      "tags": [
+        "Formula 1"
+      ]
+    },
     {
       "source": "RaceFans",
       "title": "Will F1’s new rules ruin one of its greatest tracks? Six Japanese GP talking points | Formula 1",
@@ -60,7 +163,7 @@
     },
     {
       "source": "Autosport",
-      "title": "Autosport Explains video: F1 aero in 2026",
+      "title": "Autosport Explains video: Williams chief aerodynamicist on design changes for F1 2026",
       "url": "https://www.autosport.com/f1/news/autosport-explains-video-f1-aero-in-2026/10807783/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
       "published_at": "2026-03-24T15:24:47+00:00",
       "summary": "In this exclusive technical breakdown, Autosport’s Jake Boxall-Legge visits the Williams Formula 1 base to uncover the radical aerodynamic shifts defining the 2026 season with Williams chief aerodynamicist Juan Molina.As F1 moves away from the ground-effect Venturi tunnels of the previous era, the championship introduces a shorter, narrower car profile and a return to flat floors.We also ...Keep reading",
@@ -227,17 +330,6 @@
       "author": "",
       "tags": [
         "F1"
-      ]
-    },
-    {
-      "source": "The Race",
-      "title": "Two special F1 liveries for Japanese GP revealed",
-      "url": "https://www.the-race.com/formula-1/two-special-f1-liveries-for-japanese-gp-revealed/",
-      "published_at": "2026-03-24T08:14:14+00:00",
-      "summary": "Two F1 teams have brought special one-off liveries to Suzuka this weekend",
-      "author": "The Race Team",
-      "tags": [
-        "Formula 1"
       ]
     },
     {
@@ -594,28 +686,6 @@
       ]
     },
     {
-      "source": "The Race",
-      "title": "Why MotoGP's Brazil race was suddenly slashed + what annoyed riders most",
-      "url": "https://www.the-race.com/motogp/why-motogps-brazil-race-was-suddenly-slashed-and-what-annoyed-riders-most/",
-      "published_at": "2026-03-22T20:25:19+00:00",
-      "summary": "MotoGP riders have shed some more light on the sudden shortening of the Brazilian Grand Prix at Goiania due to track damage",
-      "author": "Valentin Khorounzhiy",
-      "tags": [
-        "MotoGP"
-      ]
-    },
-    {
-      "source": "The Race",
-      "title": "Aprilia 1-2 in MotoGP's truncated Brazilian GP",
-      "url": "https://www.the-race.com/motogp/aprilia-1-2-in-motogps-truncated-brazilian-gp/",
-      "published_at": "2026-03-22T18:44:10+00:00",
-      "summary": "MotoGP's first Brazilian Grand Prix in 22 years was abruptly cut by one-third distance and then dominated by Aprilia",
-      "author": "Valentin Khorounzhiy",
-      "tags": [
-        "MotoGP"
-      ]
-    },
-    {
       "source": "Motorsport.com",
       "title": "David Coulthard questions driver impact of Aston Martin vibration problems with strong stance",
       "url": "https://www.motorsport.com/f1/news/david-coulthard-questions-driver-impact-of-aston-martin-vibration-problems-with-strong-stance/10807340/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -662,30 +732,6 @@
       ]
     },
     {
-      "source": "Motorsport.com",
-      "title": "David Croft issues Kimi Antonelli title warning after Chinese Grand Prix win",
-      "url": "https://www.motorsport.com/f1/news/david-croft-issues-kimi-antonelli-title-warning-after-chinese-grand-prix-win/10807261/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "published_at": "2026-03-22T14:28:04+00:00",
-      "summary": "Sky Sports Formula 1 commentator David Croft has argued that no one should be putting pressure on Mercedes' Kimi Antonelli for the drivers' championship.The Italian driver claimed his maiden F1 win at the Chinese Grand Prix, fending off his Mercedes team-mate George Russell and the Ferraris of Lewis Hamilton and Charles Leclerc.Since his victory, the 19-year-old has been at the centre of ...Keep reading",
-      "author": "",
-      "tags": [
-        "F1 Chinese Grand Prix",
-        "Formula 1"
-      ]
-    },
-    {
-      "source": "Motorsport.com",
-      "title": "Cadillac’s unexpected April F1 break will be “quite beneficial”",
-      "url": "https://www.motorsport.com/f1/news/cadillacs-unexpected-april-f1-break-will-be-quite-beneficial/10806202/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "published_at": "2026-03-22T12:14:04+00:00",
-      "summary": "Formula 1’s unexpected April break will be “quite beneficial” to the nascent Cadillac team, Valtteri Bottas reckons.The Bahrain and Jeddah rounds have been cancelled due to the ongoing Iran war, meaning there will be a five-week gap between next week’s Japanese Grand Prix and the Miami race in early May.“I think it's actually quite beneficial for us,” Bottas commented. “We ...Keep reading",
-      "author": "",
-      "tags": [
-        "F1 Chinese Grand Prix",
-        "Formula 1"
-      ]
-    },
-    {
       "source": "Crash.net F1",
       "title": "Are fears Mercedes is going to repeat its 2014 F1 dominance legitimate?",
       "url": "https://www.crash.net/f1/feature/1091821/1/are-fears-mercedes-going-repeat-its-2014-f1-dominance-legitimate",
@@ -719,17 +765,6 @@
       ]
     },
     {
-      "source": "The Race",
-      "title": "Winners and losers from Jarama Formula E",
-      "url": "https://www.the-race.com/formula-e/winners-and-losers-from-jarama-formula-e/",
-      "published_at": "2026-03-22T09:27:04+00:00",
-      "summary": "The pole winner sinking like a rock, anger over team orders at the front and a last corner overtake for the podium were just some of the highlights from Jarama's Formula E race. Our winners and losers:",
-      "author": "Sam Smith",
-      "tags": [
-        "Formula E"
-      ]
-    },
-    {
       "source": "RaceFans",
       "title": "ADUO: Do F1 teams who fall behind deserve to get help to catch up? | Debates and Polls",
       "url": "https://www.racefans.net/2026/03/22/aduo-should-f1-teams-who-fall-behind-get-help-to-catch-up/",
@@ -750,17 +785,6 @@
       "author": "",
       "tags": [
         "F1"
-      ]
-    },
-    {
-      "source": "The Race",
-      "title": "Yet another Williams car problem might be its most troubling",
-      "url": "https://www.the-race.com/formula-1/yet-another-williams-car-problem-might-be-its-most-troubling/",
-      "published_at": "2026-03-22T07:39:17+00:00",
-      "summary": "There are other issues affecting Williams beyond its car being overweight. One that blighted Alex Albon's Chinese GP is of particular concern",
-      "author": "Scott Mitchell-Malm",
-      "tags": [
-        "Formula 1"
       ]
     },
     {
@@ -1107,30 +1131,40 @@
       ]
     },
     {
-      "source": "Autosport",
-      "title": "How Sainz outsmarted rival with 'fake DRS train' to score points in China",
-      "url": "https://www.autosport.com/f1/news/how-sainz-outsmarted-rival-with-fake-drs-train-to-score-points-in-china/10805982/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "published_at": "2026-03-17T10:39:45+00:00",
-      "summary": "Some things in Formula 1 never change, even when new regulations come into force. Carlos Sainz’s ninth-place finish illustrated this with a shrewd strategy at the Chinese Grand Prix.Instead of using the Overtake mode for its purpose in Shanghai, he used it to defend himself from the car behind. It is precisely in situations like this that a driver’s clear-headedness shines through in ...Keep reading",
-      "author": "",
-      "tags": [
-        "Shanghai International Circuit",
-        "Formula 1"
-      ]
+      "source": "Formula1.com",
+      "title": "Ayao Komatsu on aiming high with Haas",
+      "url": "https://www.formula1.com/en/latest/article/beyond-the-grid-ayao-komatsu-on-aiming-high-with-haas.1xgBl6KIswnAoHF7Le8Mbt",
+      "published_at": "",
+      "summary": "Haas Team Principal Ayao Komatsu is Tom Clarkson’s guest on this week’s Beyond The Grid podcast.",
+      "author": "Formula 1",
+      "tags": []
     },
     {
-      "source": "RaceFans",
-      "title": "Verstappen reduced his pace unnecessarily due to communications error | Formula 1",
-      "url": "https://www.racefans.net/2026/03/17/verstappen-reduced-his-pace-unnecessarily-due-to-communications-error/",
-      "published_at": "2026-03-17T10:37:15+00:00",
-      "summary": "Max Verstappen's race engineer Gianpiero Lambiase reassured him \"I am supposed to be on your side\" after a communications error during Sunday's race.",
-      "author": "Keith Collantine",
-      "tags": [
-        "2026 F1 season",
-        "Formula 1",
-        "2026 Chinese Grand Prix",
-        "Max Verstappen"
-      ]
+      "source": "Formula1.com",
+      "title": "What tyres will the teams and drivers have for Japan?",
+      "url": "https://www.formula1.com/en/latest/article/what-tyres-will-the-teams-and-drivers-have-for-the-2026-japanese-grand-prix.4V0p1BrC3PbEiWNzsivaSr",
+      "published_at": "",
+      "summary": "After the opening back-to-back sequence in Australia and China, the F1 paddock rolls on to Suzuka for the Japanese Grand Prix – and tyre suppliers Pirelli have confirmed the compounds that the teams and drivers will have available to them.",
+      "author": "Formula 1",
+      "tags": []
+    },
+    {
+      "source": "Formula1.com",
+      "title": "How to stream the 2026 Japanese Grand Prix on F1 TV Premium",
+      "url": "https://www.formula1.com/en/latest/article/how-to-stream-the-formula-1-2026-japanese-grand-prix-on-f1-tv-premium.6xdHbfIgA0QTM8xK0hUidO",
+      "published_at": "",
+      "summary": "Formula 1 heads to the iconic Suzuka Circuit this weekend for the 2026 Japanese Grand Prix – and here’s all the information you need to follow the action live on F1 TV.",
+      "author": "Formula 1",
+      "tags": []
+    },
+    {
+      "source": "Formula1.com",
+      "title": "Why we could see a very different type of Japanese GP in 2026",
+      "url": "https://www.formula1.com/en/latest/article/tech-weekly-why-we-could-be-looking-at-a-very-different-2026-japanese-grand-prix.8NHMo9Jj5AY1PGpLaGAVu",
+      "published_at": "",
+      "summary": "Mark Hughes examines why the tyre demands at this year's Japanese Grand Prix in Suzuka could be different amid the 2026 rule changes.",
+      "author": "Formula 1",
+      "tags": []
     },
     {
       "source": "Formula1.com",
@@ -1183,42 +1217,6 @@
       "url": "https://www.formula1.com/en/latest/article/gallery-haas-reveal-special-godzilla-themed-livery-for-japanese-grand-prix.7GnmylxXYe0UD4Ei8zLp7L",
       "published_at": "",
       "summary": "Haas have unveiled a special livery for the upcoming weekend in Suzuka, with the 'King of the Monsters' adorning the car.",
-      "author": "Formula 1",
-      "tags": []
-    },
-    {
-      "source": "Formula1.com",
-      "title": "6 F1 drivers who starred in other racing series",
-      "url": "https://www.formula1.com/en/latest/article/6-drivers-who-starred-in-other-racing-series-whilst-still-active-in-formula.1hWt3ALMVnAvE3HEoFUWXO",
-      "published_at": "",
-      "summary": "As Max Verstappen prepares for his Nurburgring 24 Hours debut later this season, F1.com looks back at the drivers who enjoyed successful outings in other racing series whilst still active in Formula 1.",
-      "author": "Formula 1",
-      "tags": []
-    },
-    {
-      "source": "Formula1.com",
-      "title": "Crawford to replace Alonso at Aston Martin for FP1 in Japan",
-      "url": "https://www.formula1.com/en/latest/article/crawford-to-replace-alonso-at-aston-martin-for-first-practice-session-in.3n04ZaSx5yMaSySiQdJ5G7",
-      "published_at": "",
-      "summary": "Aston Martin Third Driver Jak Crawford will take part in the opening practice session at the Japanese Grand Prix, the team have announced.",
-      "author": "Formula 1",
-      "tags": []
-    },
-    {
-      "source": "Formula1.com",
-      "title": "Trivia: Guess the track",
-      "url": "https://www.formula1.com/en/latest/article/trivia-guess-the-track.oLvVa3EwkKIEnozQ1UHlb",
-      "published_at": "",
-      "summary": "",
-      "author": "Formula 1",
-      "tags": []
-    },
-    {
-      "source": "Formula1.com",
-      "title": "How Albon is writing the latest chapter in Southeast Asia’s F1 story",
-      "url": "https://www.formula1.com/en/latest/article/how-albon-is-writing-the-latest-chapter-in-southeast-asias-f1-story.2rR5O22JOxDK9tRq5SgGDF",
-      "published_at": "",
-      "summary": "To celebrate Alex Albon’s 30th birthday, we’re looking into the Thai driver’s role in taking Southeast Asia’s racing heritage to the next level.",
       "author": "Formula 1",
       "tags": []
     }
