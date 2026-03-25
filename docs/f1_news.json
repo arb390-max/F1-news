@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-24T23:03:41.955310+00:00",
+  "last_updated": "2026-03-25T05:17:57.954833+00:00",
   "total_articles": 105,
   "sources": [
     "Formula1.com",
@@ -12,6 +12,17 @@
     "Crash.net F1"
   ],
   "articles": [
+    {
+      "source": "RaceFans",
+      "title": "Round-up: Formula 2 champion Fornaroli completes first test for McLaren, and more | RaceFans round-up",
+      "url": "https://www.racefans.net/2026/03/25/round-up-25th-march-2026/",
+      "published_at": "2026-03-25T00:01:00+00:00",
+      "summary": "Wednesday's edition of the RaceFans round-up.",
+      "author": "Keith Collantine",
+      "tags": [
+        "RaceFans Round-up"
+      ]
+    },
     {
       "source": "The Race",
       "title": "How FIM's responded to MotoGP's chaotic Brazil return",
@@ -1118,21 +1129,6 @@
       "author": "Keith Collantine",
       "tags": [
         "RaceFans Round-up"
-      ]
-    },
-    {
-      "source": "RaceFans",
-      "title": "‘Just an easy pass with Overtake’: Every radio message from Antonelli’s first F1 win | Formula 1",
-      "url": "https://www.racefans.net/2026/03/16/just-an-easy-pass-with-overtake-every-radio-message-from-antonellis-first-f1-win/",
-      "published_at": "2026-03-16T11:24:13+00:00",
-      "summary": "Andrea Kimi Antonelli's race engineer kept him alert to the threat from his team mate on his way to his breakthrough grand prix victory.",
-      "author": "Keith Collantine",
-      "tags": [
-        "2026 F1 season",
-        "F1 drivers team radio transcripts",
-        "Formula 1",
-        "2026 Chinese Grand Prix",
-        "Andrea Kimi Antonelli"
       ]
     },
     {
