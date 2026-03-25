@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-25T18:38:31.427928+00:00",
+  "last_updated": "2026-03-25T20:57:33.057020+00:00",
   "total_articles": 105,
   "sources": [
     "Formula1.com",
@@ -12,6 +12,19 @@
     "Crash.net F1"
   ],
   "articles": [
+    {
+      "source": "Motorsport.com",
+      "title": "How Max Verstappen shone in Nurburgring NLS2 against the best from Mercedes",
+      "url": "https://www.motorsport.com/NLS/news/analysis-how-max-verstappen-shines-against-even-the-best-mercedes-drivers-/10807909/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "published_at": "2026-03-25T20:30:02+00:00",
+      "summary": "Before the stewards stepped in to strip the NLS2 win from the #3 Winward Mercedes-AMG GT3, Max Verstappen, Jules Gounon, and Daniel Juncadella delivered a historically fast performance at the Nurburgring.The #3 Mercedes entered under the Verstappen Racing banner completed 29 laps on the 24.358km combination of the GP sprint circuit and the Nordschleife. In NLS 4-hour races, reaching the 29-lap ...Keep reading",
+      "author": "",
+      "tags": [
+        "Endurance",
+        "Formula 1",
+        "NLS"
+      ]
+    },
     {
       "source": "Motorsport.com",
       "title": "F1 Japanese GP: Weather forecast, schedule and how to watch",
@@ -683,18 +696,6 @@
       "summary": "Aston Martin has become the surprise first F1 team to announce a rookie driver for a practice session in 2026",
       "author": "Valentin Khorounzhiy",
       "tags": [
-        "Formula 1"
-      ]
-    },
-    {
-      "source": "Motorsport.com",
-      "title": "Kimi Antonelli sparks Max Verstappen team-up hopes as he watches Nürburgring race",
-      "url": "https://www.motorsport.com/f1/news/kimi-antonelli-sparks-max-verstappen-team-up-hopes-as-he-watches-nurburgring-race/10807300/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "published_at": "2026-03-23T14:07:21+00:00",
-      "summary": "Formula 1 fans were left hoping Kimi Antonelli and Max Verstappen could team up in the future as the Italian driver watched the four-time champion in the Nürburgring Langstrecken-Serie (NLS).Verstappen had initially taken the win at the Nürburgring on Saturday along with his team-mates Jules Gounon and Daniel Juncadella, but the trio was later disqualified after being found to have used ...Keep reading",
-      "author": "",
-      "tags": [
-        "F1 Chinese Grand Prix",
         "Formula 1"
       ]
     },
