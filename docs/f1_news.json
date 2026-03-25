@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-25T05:17:57.954833+00:00",
+  "last_updated": "2026-03-25T08:06:53.423130+00:00",
   "total_articles": 105,
   "sources": [
     "Formula1.com",
@@ -12,6 +12,18 @@
     "Crash.net F1"
   ],
   "articles": [
+    {
+      "source": "RaceFans",
+      "title": "Will F1’s new rules ruin one of its greatest tracks? Six Japanese GP talking points | Formula 1",
+      "url": "https://www.racefans.net/2026/03/25/will-f1s-new-rules-ruin-one-of-its-greatest-tracks-six-japanese-gp-talking-points/",
+      "published_at": "2026-03-25T07:15:54+00:00",
+      "summary": "Will F1's new rules neuter Suzuka? Can Honda save face at their home race? Here are the talking points for the Japanese Grand Prix.",
+      "author": "Keith Collantine",
+      "tags": [
+        "2026 F1 season",
+        "2026 Japanese Grand Prix"
+      ]
+    },
     {
       "source": "RaceFans",
       "title": "Round-up: Formula 2 champion Fornaroli completes first test for McLaren, and more | RaceFans round-up",
@@ -1118,17 +1130,6 @@
         "Formula 1",
         "2026 Chinese Grand Prix",
         "Max Verstappen"
-      ]
-    },
-    {
-      "source": "RaceFans",
-      "title": "Round-up: Red Bull performance “easy to maximise” so far for Hadjar, and more | RaceFans Round-up",
-      "url": "https://www.racefans.net/2026/03/17/round-up-17th-march-2026/",
-      "published_at": "2026-03-17T00:01:00+00:00",
-      "summary": "Tuesday's edition of the RaceFans round-up.",
-      "author": "Keith Collantine",
-      "tags": [
-        "RaceFans Round-up"
       ]
     },
     {
